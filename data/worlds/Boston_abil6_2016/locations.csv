@@ -1,0 +1,39 @@
+gid,state,puma,name,L_km2,H_units,households,rent_data_yr,mu_pct,mc_yr,lat,lon
+2500601,25,00601,Middlesex County (Northwest)--Outside Lowell,575.92,47881,45942,13497,2.44,9261,42.6303,-71.5709
+2500602,25,00602,Middlesex County--Lowell,35.25,41258,38735,12016,-5.71,8178,42.639,-71.321
+2500603,25,00603,"Middlesex County (Northeast)--Billerica, Tewksbury & Dracut",173.46,37516,36427,15493,-0.7,9295,42.6164,-71.2675
+2500604,25,00604,Middlesex County (West Central),374.83,45487,43481,15486,4.89,11431,42.4572,-71.4386
+2500605,25,00605,Middlesex County--Framingham & Marlborough,118.9,45034,43129,14312,2.32,8834,42.3499,-71.5641
+2500606,25,00606,Middlesex County (Southwest),266.96,39472,38068,14888,5.58,11163,42.2532,-71.4336
+2500607,25,00607,"Middlesex County--Lexington, Burlington & Wilmington",248.38,49982,47903,21193,8.64,15290,42.4634,-71.2434
+2500608,25,00608,"Middlesex County--Woburn, Melrose & Reading",139.53,62893,60222,15764,5.29,10342,42.5156,-71.1017
+2500609,25,00609,Middlesex County (East)--Malden & Medford,34.04,47717,45286,16507,3.1,10911,42.4254,-71.0898
+2500610,25,00610,Middlesex County (East)--Somerville & Everett,19.52,49971,47496,17747,-1.39,12578,42.398,-71.0846
+2500611,25,00611,Middlesex County (East)--Cambridge,16.56,48627,43497,20578,-6.24,23204,42.376,-71.1187
+2500612,25,00612,"Middlesex County--Watertown, Arlington & Belmont",35.71,45449,43014,18939,9.92,13056,42.3971,-71.1727
+2500613,25,00613,Middlesex County--Newton & Waltham,79.18,58121,54544,19011,9.02,11368,42.3559,-71.2204
+2500701,25,00701,Essex County (Northwest)--Haverhill & Methuen,143.09,43559,41145,12969,-2.9,8354,42.7662,-71.1266
+2500702,25,00702,Essex County (West)--Lawrence & Andover,97.76,40068,37938,12304,-6.52,8238,42.6564,-71.1644
+2500703,25,00703,"Essex County (North)--Newburyport, Amesbury & North Andover",443.19,50056,46630,14835,2.15,10418,42.7586,-70.9609
+2500704,25,00704,"Essex County (Central)--Peabody, Danvers & Saugus",371.39,66309,62783,15247,2.03,9856,42.6102,-70.9179
+2500705,25,00705,Essex County--Lynn & Nahant,30.6,36111,33843,12199,-9.92,8675,42.4698,-70.9585
+2500706,25,00706,"Essex County (South Coastline)--Salem, Beverly & Gloucester",189.57,72337,65930,13374,1.49,10260,42.5785,-70.729
+2500801,25,00801,"Boston City--Allston, Brighton & Fenway",14.19,43687,39342,18833,1.14,13096,42.3519,-71.1325
+2500802,25,00802,"Boston City--Back Bay, Beacon Hill, Charlestown, East Boston, Central & South End",24.83,79474,72156,18493,-7.65,12922,42.3692,-71.0347
+2500803,25,00803,Boston City--Dorchester & South Boston,22.32,51518,47696,17065,-12.4,11704,42.3385,-71.0112
+2500804,25,00804,Boston City--Mattapan & Roxbury,17.62,52055,47920,11072,-17.96,10134,42.3063,-71.0859
+2500805,25,00805,"Boston City--Hyde Park, Jamaica Plain, Roslindale & West Roxbury",44.59,54688,52217,15967,-3.04,10073,42.2812,-71.1321
+2500806,25,00806,"Suffolk County (North)--Revere, Chelsea & Winthrop",27.32,42954,40316,14785,-2.3,8823,42.3772,-70.9881
+2500901,25,00901,"Norfolk County (Northwest)--Needham, Wellesley & Westwood",223.45,40189,38405,17926,13.4,15534,42.2242,-71.3018
+2500902,25,00902,"Norfolk County--Brookline, Milton & Dedham",77.81,45723,43339,22354,10.41,16369,42.2416,-71.0824
+2500903,25,00903,Norfolk County--Quincy,42.92,42402,39816,15408,6.67,10178,42.261,-71.009
+2500904,25,00904,"Norfolk County (Northeast)--Weymouth, Braintree, Randolph & Cohasset",129.87,54487,51886,15074,3.02,9633,42.1951,-70.9943
+2500905,25,00905,"Norfolk County (Central)--Norwood, Stoughton & Canton",207.7,45487,43228,15814,4.43,9605,42.1409,-71.1331
+2500906,25,00906,"Norfolk County (Southwest)--Franklin, Walpole & Foxborough",344.17,44993,43387,15214,5.05,10873,42.0834,-71.3485
+2501101,25,01101,Plymouth County--Brockton,55.25,34791,31991,11531,-12.93,8648,42.0825,-71.0246
+2501102,25,01102,"Plymouth County (West)--Bridgewater, Abington & Whitman",405.48,46117,44235,13924,2.08,9115,42.0333,-70.8946
+2501103,25,01103,"Plymouth County (North)--Marshfield, Hingham & Scituate",381.72,56741,51551,16427,6.16,11127,42.1012,-70.6579
+2501104,25,01104,"Plymouth County (South)--Plymouth Town, Middleborough & Wareham",863.07,64918,54478,14367,-4.94,9280,41.8337,-70.754
+3300301,33,00301,Strafford & Rockingham (Northern) Counties,1177.71,59907,54426,11915,-6.83,6712,43.2521,-71.0605
+3300701,33,00701,Outer Manchester City,1150.98,60399,57595,15234,-1.24,8219,42.8742,-71.3202
+3300801,33,00801,"Seacoast Region--Rockingham County (Southern), Portsmouth City",962.12,85954,78381,13846,-2.84,7763,42.9583,-70.9627

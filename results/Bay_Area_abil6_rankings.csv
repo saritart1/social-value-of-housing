@@ -1,0 +1,55 @@
+gid,name,welfare_usd,price_model_usd,rent_data_usd,wedge_usd,welfare_rank,wedge_rank,unpriced_soc_usd,mu_pct,mc_usd,profit_usd,net_social_usd,eta_model,households,H_units
+600101,"Alameda County (North)--Berkeley & Albany Cities",27679,27907,25344,-228,33,31,0,-3.4,24374,3533,3305,-0.426,51997,64599
+600111,"Alameda County (Northwest)--Oakland City (Downtown/West Oakland/North Oakland)",26927,26952,23772,-25,35,30,0,-15.57,22092,4860,4835,-0.425,43613,58366
+600112,"Alameda County (Northwest)--Oakland City (Oakland Hills)",29936,29503,26676,433,26,19,0,-2.32,23579,5924,6357,-0.428,42394,55986
+600113,"Alameda County (West)--Oakland City (Elmhurst/Central/East Oakland)",21419,23389,20064,-1970,46,47,-0,-21.77,11713,11676,9706,-0.425,40802,45035
+600114,"Alameda County (West)--San Leandro, Alameda, Emeryville & Piedmont Cities",25174,25904,27120,-730,40,37,0,-0.19,17442,8462,7732,-0.43,67752,83652
+600115,"Alameda County (Northwest)--Castro Valley & Ashland",23527,25030,26100,-1504,44,45,0,-2.51,15929,9101,7598,-0.423,35883,40256
+600116,"Alameda County (Central)--Hayward City (East)",16780,19067,27204,-2287,53,50,0,-5.25,15294,3773,1486,-0.424,30926,37364
+600117,"Alameda County (South)--Newark, Union City (West) & Fremont (West) Cities",38490,37914,34464,576,8,17,0,6.45,15436,22478,23054,-0.424,36947,36221
+600118,"Alameda County (South)--Fremont (Northeast) & Union City (East) Cities",34172,34083,32412,90,18,28,0,5.24,15797,18286,18375,-0.426,46011,47340
+600119,"Alameda County (Central)--Pleasanton & Dublin (West) Cities",36187,35411,35220,776,13,13,0,4.97,21503,13908,14684,-0.429,44657,49489
+600120,"Alameda County (East)--Livermore & Dublin (East) Cities",30298,30621,31032,-323,24,33,0,-0.19,18056,12565,12242,-0.425,40980,45568
+600121,"Alameda County (South)--Fremont City (Southeast)",40764,39260,33720,1503,5,9,0,5.05,17615,21645,23149,-0.427,40411,42762
+600122,"Alameda County (West)--Hayward City (West)",26047,28092,26892,-2045,38,48,0,-4.42,12863,15229,13184,-0.424,34529,32581
+600123,"Alameda County (Northwest)--Oakland City (San Antonio/Fruitvale)",22580,23867,20196,-1287,45,43,0,-4.95,14970,8897,7610,-0.423,35324,42617
+601301,"Contra Costa County (Far Southwest)--Richmond (Southwest) & San Pablo Cities",19329,21220,21336,-1892,52,46,0,-14.34,11313,9907,8016,-0.425,40149,48285
+601305,"Contra Costa County (South)--San Ramon City & Danville Town",33202,33056,34512,146,19,27,0,13.85,24661,8395,8541,-0.431,50613,56285
+601308,"Contra Costa County (Northeast)--Antioch City",20161,22966,25776,-2804,49,54,0,-5.76,11870,11096,8291,-0.425,42011,43165
+601309,"Contra Costa County (East)--Brentwood & Oakley Cities",21067,23563,28056,-2495,47,51,0,-3.29,14877,8686,6190,-0.423,43761,46332
+601310,"Contra Costa County (Far Northwest)--Richmond (North), Hercules & El Cerrito Cities",25083,26315,27228,-1232,41,42,0,-2.31,14901,11414,10182,-0.426,51738,58927
+601311,"Contra Costa County (West)--Concord (West), Martinez & Pleasant Hill Cities",24717,25809,25644,-1092,42,39,0,-4.44,15366,10443,9351,-0.424,44152,52234
+601312,"Contra Costa County (West)--Walnut Creek (West), Lafayette & Orinda Cities",28190,27842,32028,348,30,20,0,8.68,25254,2588,2936,-0.425,33189,45848
+601313,"Contra Costa County (Central)--Concord (South), Walnut Creek (East) & Clayton Cities",26138,26949,29040,-811,37,38,0,3.96,18946,8003,7192,-0.429,66028,78486
+601314,"Contra Costa County (North)--Pittsburg & Concord (North) Cities",21025,23778,24888,-2754,48,52,0,-9.18,11147,12631,9878,-0.424,34556,34650
+604103,"Marin County (North & West)--Novato & San Rafael (North) Cities",20117,21500,28848,-1383,50,44,0,-1.08,23562,-2062,-3445,-0.42,37347,49105
+604104,"Marin County (Southeast)--San Rafael (South), Mill Valley & Sausalito Cities",25188,24945,30600,243,39,22,0,0.24,29701,-4756,-4513,-0.423,48112,73152
+607507,"San Francisco County (South Central)--Bayview & Hunters Point",26506,27715,19512,-1210,36,41,0,-1.31,17444,10271,9062,-0.423,35768,38756
+607508,"San Francisco County (Northwest)--Richmond, Western Addition & Presidio",15584,18384,29460,-2800,54,53,0,9.98,32443,-14059,-16859,-0.431,40526,49461
+607509,"San Francisco County (Northeast)--Chinatown, North Beach & Russian Hill",19581,19340,20616,242,51,23,0,6.25,17444,1896,2137,-0.424,38512,76415
+607510,"San Francisco County (Southeast)--South of Market & Mission",39988,38354,33588,1635,6,7,0,-5.54,25461,12893,14527,-0.428,50610,59646
+607511,"San Francisco County (Southwest)--Central & Bernal Heights",35535,34270,30276,1265,15,11,0,-6.26,23201,11069,12334,-0.43,56640,71819
+607512,"San Francisco County (Southwest)--Outer Sunset & Inner Sunset",29218,29015,32628,203,28,24,0,12.28,20107,8908,9111,-0.423,34559,44812
+607513,"San Francisco County (Southwest)--Ingleside & South Central",32506,32338,30120,168,22,26,0,8.83,19515,12823,12991,-0.424,35953,41148
+607514,"San Francisco County (Northwest)--Western Addition & Marina",27713,26948,31440,765,32,14,0,-1.24,82623,-55675,-54910,-0.426,41745,64792
+608101,"San Mateo County (North Central)--Daly City, Pacifica Cities & Colma Town",27754,28873,31440,-1119,31,40,0,1.44,13065,15808,14689,-0.425,50708,53806
+608102,"San Mateo County (North Central)--South San Francisco, San Bruno & Brisbane Cities",28646,29217,31764,-571,29,35,0,1.18,13683,15534,14963,-0.424,43068,48432
+608103,"San Mateo County (Central)--San Mateo (North), Burlingame & Millbrae Cities",29542,29199,33408,343,27,21,0,6.93,21186,8013,8356,-0.424,37512,48030
+608104,"San Mateo County (South & West)--San Mateo (South) & Half Moon Bay Cities",26949,27187,39816,-237,34,32,0,3.14,17961,9226,8988,-0.428,45128,56951
+608105,"San Mateo County (East Central)--Redwood City, San Carlos & Belmont Cities",36917,35607,34464,1310,10,10,0,2.39,18508,17099,18409,-0.427,51246,59546
+608106,"San Mateo County (Southeast)--Menlo Park, East Palo Alto Cities & Atherton Town",32583,31852,30372,731,21,15,0,-3.19,23314,8538,9269,-0.423,37182,44358
+608505,"Santa Clara County (North Central)--San Jose City (East Central) & Alum Rock",36701,37286,30504,-585,11,36,0,-0.2,14048,23238,22653,-0.423,38341,32229
+608506,"Santa Clara County (East)--Gilroy, Morgan Hill & San Jose (South) Cities",24207,26455,26808,-2248,43,49,0,-9.02,19286,7169,4921,-0.423,45563,43984
+608507,"Santa Clara County (Southwest)--Cupertino, Saratoga Cities & Los Gatos Town",39283,36962,40956,2321,7,3,0,7.71,23780,13182,15503,-0.43,46516,58964
+608508,"Santa Clara County (Central)--San Jose (West Central) & Campbell Cities",38015,36412,29652,1603,9,8,0,3.98,17098,19314,20917,-0.428,51896,59362
+608510,"Santa Clara County (Central)--San Jose City (Central)",29987,29932,27120,55,25,29,0,-1.29,16216,13716,13771,-0.427,55162,62189
+608511,"Santa Clara County (Central)--San Jose City (South Central/Branham) & Cambrian Park",32878,32301,31872,577,20,16,0,4.93,15345,16956,17533,-0.423,37031,41952
+608512,"Santa Clara County (Central)--San Jose City (Southwest/Almaden Valley)",34677,33836,36648,840,17,12,0,6.57,16119,17717,18558,-0.425,38064,42923
+608515,"Santa Clara County (Northwest)--Palo Alto City & Los Altos Hills Town",35176,33426,34152,1749,16,5,0,1.78,26443,6983,8733,-0.424,31856,42197
+608516,"Santa Clara County (Northwest)--Sunnyvale City",47095,44569,35784,2526,1,2,0,2.02,18105,26464,28990,-0.433,69822,70345
+608517,"Santa Clara County (Northwest)--Santa Clara City",43148,40839,34104,2308,3,4,0,0.32,15808,25031,27340,-0.428,49714,54509
+608518,"Santa Clara County (Northwest)--San Jose (Berryessa) & Milpitas Cities",43440,41805,36180,1635,2,6,0,6.16,15193,26612,28247,-0.424,38021,37004
+608519,"Santa Clara County (Central)--San Jose City (North)",30829,30333,31368,496,23,18,0,-9.58,13846,16487,16983,-0.429,63368,75442
+608520,"Santa Clara County (Central)--San Jose City (Southeast/Evergreen)",36405,36219,31116,186,12,25,0,5.73,14087,22132,22318,-0.423,38704,36911
+608521,"Santa Clara County (North)--San Jose City (North Valley/East San Jose)",35914,36304,27360,-390,14,34,0,-2.01,12703,23601,23211,-0.424,45533,40038
+608522,"Santa Clara County (Northwest)--Mountain View & Los Altos Cities",40973,38015,35052,2958,4,1,0,0.46,19728,18287,21245,-0.428,40950,55413

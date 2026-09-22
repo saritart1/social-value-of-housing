@@ -1,0 +1,18 @@
+param,value,max_wedge_usd,max_wedge_where,eta_med,dereg_net_per_hh,converged
+baseline,NaN,1361,"Middlesex County--Watertown, Arlington & Belmont",-0.429,2711,1
+alpha,0.25,1255,"Middlesex County--Watertown, Arlington & Belmont",-0.472,1010,1
+alpha,0.35,1449,"Middlesex County--Watertown, Arlington & Belmont",-0.393,5470,1
+theta,2,1020,"Middlesex County--Watertown, Arlington & Belmont",-0.569,2701,1
+theta,5,1853,"Middlesex County--Watertown, Arlington & Belmont",-0.227,2730,1
+lambda_scale,0.67,1320,"Middlesex County--Watertown, Arlington & Belmont",-0.43,2713,1
+lambda_scale,1.33,1407,"Middlesex County--Watertown, Arlington & Belmont",-0.427,2710,1
+omega,0.08,875,"Middlesex County--Watertown, Arlington & Belmont",-0.47,2716,1
+omega,0.16,1929,"Middlesex County--Watertown, Arlington & Belmont",-0.381,2706,1
+dc,0.02,1382,"Middlesex County--Watertown, Arlington & Belmont",-0.428,3219,1
+dc,0.1,1252,"Middlesex County--Watertown, Arlington & Belmont",-0.43,1840,1
+kappa,0.007,1351,"Middlesex County--Watertown, Arlington & Belmont",-0.429,3615,1
+kappa,0.014,1350,"Middlesex County--Watertown, Arlington & Belmont",-0.429,1825,1
+mc_scale,0.8,1361,"Middlesex County--Watertown, Arlington & Belmont",-0.429,4302,1
+mc_scale,1.4,1361,"Middlesex County--Watertown, Arlington & Belmont",-0.429,943,1
+dereg_epsS,0.5,1361,"Middlesex County--Watertown, Arlington & Belmont",-0.429,1941,1
+dereg_epsS,2,1361,"Middlesex County--Watertown, Arlington & Belmont",-0.429,3964,1

@@ -1,0 +1,48 @@
+gid,state,puma,name,L_km2,H_units,households,rent_data_yr,mu_pct,mc_yr,lat,lon
+1100101,11,00101,District of Columbia (West),36.64,51332,47254,22343,3.28,28843,38.9378,-77.0732
+1100102,11,00102,District of Columbia (North),28.51,43197,39833,14743,-11.92,12940,38.9528,-77.0147
+1100103,11,00103,District of Columbia (Northeast),23.18,44923,40348,16375,-17.97,14889,38.9049,-76.9809
+1100104,11,00104,District of Columbia (East),33.03,63507,54962,11240,-21.89,8318,38.8722,-76.9627
+1100105,11,00105,District of Columbia (Central),8.52,54620,50527,19110,-12.36,20078,38.9231,-77.0309
+1100106,11,00106,District of Columbia (South Central),28.44,49132,43622,20348,-11.12,15432,38.8705,-77.0268
+2400301,24,00301,Central Frederick County--Frederick City,245.12,47612,45047,15980,-6.54,10296,39.4356,-77.3981
+2400302,24,00302,Outer Frederick County,1465.85,46033,43948,14999,3.07,10838,39.4691,-77.3929
+2401001,24,01001,"North Montgomery County--Olney, Damascus & Darnestown",700.61,36616,35168,19897,6.98,12883,39.1091,-77.3918
+2401002,24,01002,"North Central Montgomery County--Germantown, Clarksburg & Montgomery Village",106.59,56479,53980,19517,4.86,9157,39.1799,-77.2556
+2401003,24,01003,Central Montgomery County--Gaithersburg & Rockville,90.75,61000,58245,20137,6.25,12168,39.1113,-77.1843
+2401004,24,01004,Southwest Montgomery County--North Bethesda & Potomac,118.07,48147,46394,23036,11.34,17320,39.0309,-77.1865
+2401005,24,01005,"East Central Montgomery County--Wheaton, Aspen Hill & Glenmont",61.34,51577,49379,19576,4.79,10934,39.0654,-77.0689
+2401006,24,01006,"East Montgomery County--Fairland, Colesville & White Oak",111.12,43676,41659,19809,5.22,10544,39.0936,-76.9874
+2401007,24,01007,Southeast Montgomery County--Takoma Park City & Silver Spring,34.04,46463,44126,17705,-0.84,12079,39.0042,-77.0193
+2401008,24,01008,South Montgomery County--South Bethesda & Chevy Chase,54.72,41527,38813,25350,9.95,20542,38.9836,-77.1157
+2401101,24,01101,Inner Northwest Prince George's County--College Park City & Langley Park,41.86,35807,33508,16121,-3.33,8987,38.9899,-76.9517
+2401102,24,01102,"North Prince George's County--Laurel, Greenbelt & Beltsville",166.57,51196,48159,17280,-1.96,9229,39.039,-76.8693
+2401103,24,01103,Inner Northeast Prince George's County--New Carrollton & Hyattsville,50.69,38294,35919,14577,-9.06,8423,38.9524,-76.9169
+2401104,24,01104,"Central Prince George's County--Seat Pleasant City, Capitol Heights Town & Landover",68.1,46687,41947,15355,-18.15,7177,38.8808,-76.8853
+2401105,24,01105,"East Prince George's County--Bowie City, Kettering & Largo",301.12,68189,64430,22030,-5.24,10332,38.8957,-76.7707
+2401106,24,01106,"South Prince George's County--Clinton, Fort Washington & Rosaryville",540.9,44762,42210,20964,-9.41,9418,38.7075,-76.8464
+2401107,24,01107,"Southwest Prince George's County--Oxon Hill, Hillcrest Heights & Temple Hills",80.79,49418,44012,15608,-15.42,7353,38.8068,-76.9672
+2401501,24,01501,Calvert & Southeast St. Mary's Counties--Chesapeake Beach & California,603.05,39155,35617,17765,-3.5,9459,38.5227,-76.5298
+2401700,24,01700,Charles County--La Plata Town & Waldorf City,1185.76,58014,54105,17917,-3.84,8902,38.4729,-77.0154
+5101301,51,01301,Arlington County (North),33.94,53912,49342,24755,7.27,15079,38.8961,-77.1235
+5101302,51,01302,Arlington County (South),33.39,56860,51373,20939,-0.07,11363,38.861,-77.0783
+5105901,51,05901,Fairfax County (West Central)--Centreville (North & West) & Chantilly (South & West),102.57,40976,39700,21305,14.98,14448,38.8565,-77.4528
+5105902,51,05902,Fairfax County (Northwest)--Reston (North) & Franklin Farm,114.23,62748,60075,21343,9.45,15828,38.9454,-77.3761
+5105904,51,05904,"Fairfax County (North Central)--Vienna Town, Oakton & Fair Oaks (East)",101.1,45691,43938,23612,13.46,20608,38.8982,-77.2989
+5105905,51,05905,Fairfax County (Southwest)--Centreville (Southeast) & Lorton,258.21,35841,34356,25555,12.18,17355,38.734,-77.2795
+5105906,51,05906,"Fairfax County (South Central)--Springfield (South), West Springfield & Franconia",65.68,39335,37839,23880,11.9,14372,38.7701,-77.1904
+5105907,51,05907,"Fairfax County (East Central)--Annandale, West Falls Church & Bailey's Crossroads",64.43,53641,50672,19285,10.08,15589,38.8406,-77.1756
+5105908,51,05908,"Fairfax County (Southeast)--Woodlawn, Rose Hill & Mount Vernon",77.51,50437,47332,19098,6.48,14583,38.7503,-77.0921
+5106100,51,06100,Rappahannock-Rapidan Regional Commission,5064.12,69211,62358,12588,-6.86,8498,38.5428,-77.9962
+5110701,51,10701,Loudoun County (Northeast)--Sterling & Ashburn (Northeast/Ashburn Village),86.13,38595,37364,20805,10.0,12906,39.0335,-77.4166
+5110702,51,10702,Loudoun County (East Central)--Ashburn (Southwest/Belmont Ridge) & Dulles Airport,158.97,42664,41203,24046,14.79,17123,38.9853,-77.4993
+5110703,51,10703,Loudoun County (West & South)--Leesburg Town,1090.65,41255,38530,17729,2.74,13788,39.1121,-77.6757
+5115301,51,15301,Prince William County (North & West)--Linton Hall & Gainesville,588.22,39685,38179,24481,6.55,13022,38.7241,-77.5428
+5115302,51,15302,Prince William County (Northeast),116.4,51856,50312,20025,-0.34,9293,38.6521,-77.3414
+5115303,51,15303,Prince William County (East),83.9,31032,29208,18326,-5.64,8064,38.5822,-77.2876
+5117700,51,17700,George Washington Regional Commission (South),2870.73,68046,62743,15415,-9.4,8325,38.1201,-77.4309
+5117900,51,17900,George Washington Regional Commission (North),724.3,57796,54567,16337,-5.13,9578,38.4093,-77.4486
+5151000,51,51000,Alexandria City,38.68,74695,67714,19624,-0.13,15501,38.8193,-77.0837
+5160001,51,60001,Fairfax County (Central)--Fairfax City & Burke,97.99,52764,51202,23750,14.55,16388,38.8173,-77.2759
+5161001,51,61001,Fairfax County (Northeast)--McLean & Idylwood,152.49,44514,42343,23635,13.39,21333,38.9653,-77.2406
+5168701,51,68701,"Manassas, Manassas Park Cities & Prince William County (Central)--Buckhall & Sudley",113.13,40016,37561,17263,-2.05,9267,38.7467,-77.4672

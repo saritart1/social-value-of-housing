@@ -1,0 +1,148 @@
+gid,name,welfare_usd,price_model_usd,rent_data_usd,wedge_usd,welfare_rank,wedge_rank,unpriced_soc_usd,mu_pct,mc_usd,profit_usd,net_social_usd,eta_model,households,H_units
+3400301,"Bergen County (South Central)--Hackensack & Teaneck",23166,23302,20724,-137,62,69,0,0.81,10730,12572,12436,-0.418,44276,50348
+3400302,"Bergen County (Southwest)--Rutherford, North Arlington & Hasbrouck Heights",22729,22747,19764,-18,64,58,0,10.5,11838,10909,10891,-0.418,49458,59025
+3400303,"Bergen County (Southeast)--Fort Lee, Cliffside Park & Palisades Park",20325,20032,22824,293,91,33,0,12.3,13657,6375,6668,-0.418,48018,69149
+3400304,"Bergen County (West Central)--Fair Lawn, Garfield & Lodi",21948,22407,20364,-459,72,92,0,8.02,11520,10887,10428,-0.418,49134,55075
+3400305,"Bergen County (East)--Tenafly, Park Ridge, Englewood City & Cresskill",25198,24674,23664,524,44,25,0,10.68,17039,7635,8159,-0.418,44404,54249
+3400306,"Bergen County (Northwest)--Ramsey, Oakland & Franklin Lakes",23306,23085,25176,221,59,38,0,11.78,14873,8212,8433,-0.417,35997,44963
+3400307,"Bergen County (North Central)--Bergenfield, Paramus, Dumont & New Milford",25118,24960,20868,158,45,43,0,14.29,10914,14046,14204,-0.418,43624,49182
+3400308,"Bergen County (Central)--Ridgewood Village, Glen Rock & Westwood",29791,28971,25944,820,7,19,0,13.87,14941,14030,14850,-0.418,40225,43612
+3400501,"Passaic County (South)--Passaic & Clifton (SE)",20961,22042,17316,-1081,86,138,0,-2.95,9966,12076,10995,-0.418,54893,55951
+3400502,"Passaic County (Central)--Hawthorne",21813,22270,21000,-457,75,91,0,7.46,10562,11708,11251,-0.418,44152,50205
+3400503,"Passaic County--Paterson",14749,16064,16704,-1315,134,144,0,-15.58,9627,6437,5122,-0.417,48708,61037
+3400504,"Passaic County (North)--Ringwood, Wanaque & Pompton Lakes",20547,21339,22296,-792,89,124,0,7.92,9988,11351,10559,-0.418,41979,47116
+3400601,"Hudson County (Central)--Jersey City (North)",29396,28132,25368,1264,8,9,0,-4.4,14183,13949,15213,-0.421,75102,89256
+3400602,"Hudson County (Central)--Jersey City (South)",19045,19146,17832,-100,105,62,0,-15.4,9758,9388,9287,-0.417,43906,60417
+3400603,"Hudson County (Northeast)--Union City & Hoboken",27147,26242,21168,906,24,16,0,-2.98,20060,6182,7087,-0.419,64217,77119
+3400604,"Hudson County (North)--West New York, Secaucus & North Bergen",20344,20498,19812,-154,90,70,0,1.95,12392,8106,7952,-0.418,56602,71766
+3400605,"Hudson County (South & West)--Bayonne, Kearney & Harrison",21656,21676,19080,-19,77,59,0,3.16,9751,11925,11905,-0.417,50628,63164
+3400800,"Hunterdon County",23590,23537,19524,53,58,52,0,5.69,12265,11272,11325,-0.413,50465,59927
+3400901,"Middlesex County (Southeast)",18582,19185,17844,-603,110,106,0,8.24,14979,4206,3603,-0.418,49756,63606
+3400902,"Middlesex County (Southwest)",26586,26344,22680,242,31,35,0,9.68,14633,11711,11953,-0.419,47606,52514
+3400903,"Middlesex County (Northwest)--North Piscataway & South Plainfield",26151,26120,21228,31,33,53,0,7.79,10367,15753,15784,-0.418,44857,47662
+3400904,"Middlesex County (North Central)--Metuchen & South Edison",26828,26733,21720,95,27,47,0,7.99,10189,16544,16639,-0.418,45981,48337
+3400905,"Middlesex County (Northeast)--Carteret & North Woodbridge",22500,23122,22764,-623,67,107,0,4.74,9876,13246,12624,-0.418,43888,46921
+3400906,"Middlesex County (Central)--New Brunswick & Highland Park",26077,27125,20796,-1047,35,137,0,1.74,10346,16779,15731,-0.418,67653,58603
+3400907,"Middlesex County (East Central)--Perth Amboy & Sayreville",17190,18381,18684,-1191,120,141,0,-2.58,9127,9254,8063,-0.417,40610,47310
+3401001,"Somerset County (North & West)",29239,28341,25392,899,10,17,0,9.56,15615,12726,13624,-0.419,43348,49083
+3401002,"Somerset County (South)",27095,26873,23868,222,25,37,0,2.23,11294,15579,15801,-0.418,46890,50259
+3401003,"Somerset County (Central)--Bridgewater, Somerville & North Plainfield",27808,27919,20256,-111,18,67,0,2.09,10499,17420,17309,-0.418,55508,53699
+3401101,"Monmouth County (Southeast)--Wall, Tinton Falls (South)",17684,17996,20004,-312,118,81,0,-0.13,12954,5042,4730,-0.415,40866,59672
+3401102,"Monmouth County (Southwest)--Freehold, Manalapan",18904,19694,21504,-790,107,123,0,4.49,13811,5883,5093,-0.417,39441,48109
+3401103,"Monmouth County (Southeast)--Long Branch, Asbury Park & Eatontown",18133,18502,18528,-369,112,85,0,-4.65,12669,5833,5464,-0.415,43620,60876
+3401104,"Monmouth County (Northeast)--Red Bank, Northeast Middletown",21804,22097,20964,-293,76,80,0,1.7,12113,9984,9691,-0.416,44208,52849
+3401105,"Monmouth County (Northwest)--Matawan & Aberdeen",20733,20951,20364,-219,87,75,0,5.53,9976,10975,10757,-0.417,36250,46147
+3401106,"Monmouth County (Central)",19386,19833,26148,-447,100,88,0,8.9,10829,9004,8557,-0.418,33900,43963
+3401201,"Ocean County (South)",9602,10380,20580,-778,145,120,0,-1.65,8695,1685,907,-0.41,41289,86335
+3401202,"Ocean County (Central)--Toms River & Berkeley",11333,12283,19068,-950,142,132,0,0.23,8228,4055,3105,-0.414,56515,98721
+3401203,"Ocean County (Lakewood)",17944,19409,19476,-1465,114,146,0,-10.7,12012,7397,5932,-0.411,34990,38516
+3401204,"Ocean County (Northwest)",9510,10490,18624,-980,147,134,0,-3.59,8848,1642,662,-0.416,31897,61927
+3401205,"Ocean County (Northeast)--Brick & Point Pleasant",15104,16003,20724,-900,133,130,0,4.56,8143,7860,6961,-0.414,38479,55275
+3401401,"Essex County (Northeast)--Bloomfield",24344,24614,19620,-270,49,78,0,5.28,10209,14405,14135,-0.418,52830,55999
+3401402,"Essex County (South Central)--Irvington",20232,20336,16296,-104,93,63,0,-14.16,10520,9816,9712,-0.418,34703,45608
+3401403,"Essex County (Northwest)--Montclair",30270,29444,23220,826,5,18,0,3.2,15460,13984,14810,-0.419,47531,50663
+3401404,"Essex County (Southwest)--West Orange & Livingston",31588,30304,22992,1284,3,8,0,10.17,12835,17469,18753,-0.419,40486,45006
+3401405,"Essex County (Central)--Orange & East Orange",14271,14932,16296,-660,135,111,0,-19.78,8793,6139,5478,-0.417,32071,48959
+3401406,"Essex County (Southeast)--Newark (North & East)",17862,18710,16380,-848,115,128,0,-8.94,13696,5014,4166,-0.419,57051,69047
+3401407,"Essex County (Southeast)--Newark (West & Southwest)",12640,13197,13872,-557,140,101,0,-24.33,9881,3316,2759,-0.418,41391,72148
+3401501,"Morris County (North)--Dover Town & Kinnelon Borough",21539,22255,21324,-715,81,114,0,6.92,10901,11354,10638,-0.418,55810,61307
+3401502,"Morris County (West)",24347,24399,20088,-53,48,60,0,8.55,13912,10487,10435,-0.417,51503,58197
+3401503,"Morris County (East)--Lincoln Park Borough",27598,27214,20232,384,20,31,0,11.07,14168,13046,13430,-0.418,49149,53220
+3401504,"Morris County (South)--Morristown, Madison & Florham Park",29919,28978,27888,941,6,15,0,7.16,16767,12211,13152,-0.419,50820,56324
+3401600,"Sussex County",16975,17945,18012,-970,123,133,0,2.3,8535,9410,8440,-0.413,57247,72711
+3401901,"Union County (North Central)--Union Twp & Roselle Park",25794,26332,20856,-537,40,98,0,4.65,9735,16597,16059,-0.418,45657,43658
+3401902,"Union County (Northwest)--Summit & Cranford",28456,27444,24252,1012,13,12,0,12.25,13841,13603,14615,-0.419,38177,45695
+3401903,"Union County (Southwest)--Plainfield & Westfield",28986,29381,20112,-395,12,86,0,-8.43,12231,17150,16755,-0.418,52740,46317
+3401904,"Union County (Southeast)--Linden, Rahway & Roselle",19702,20446,18564,-744,98,117,0,-1.24,8895,11551,10807,-0.418,44306,51237
+3401905,"Union County (Northeast)--Elizabeth",17083,18400,16680,-1317,121,145,0,-8.15,11053,7347,6030,-0.418,49998,56503
+3602805,"Putnam County & Southern Dutchess County",17992,19213,19944,-1221,113,142,0,7.82,12000,7213,5992,-0.413,52857,60403
+3603001,"Rockland County (North)--New City & Congers",24119,24225,20736,-106,51,64,0,6.98,13883,10342,10236,-0.413,37378,41715
+3603002,"Rockland County (South)--Orangetown, Clarkstown (South) & Ramapo (Southeast) Towns",22674,22782,23700,-107,65,65,0,6.75,14285,8497,8389,-0.416,38547,45533
+3603003,"Rockland County (West)--Spring Valley, Suffern Villages & Monsey",17818,18819,19920,-1001,117,136,0,-4.31,12375,6444,5443,-0.412,32229,38168
+3603102,"Westchester County (Northwest)",21852,22038,21924,-186,74,72,0,5.08,14826,7212,7026,-0.417,56387,67747
+3603103,"Westchester County (Northeast)",23274,23120,25236,153,60,45,0,10.92,18363,4757,4911,-0.418,49862,61445
+3603110,"Westchester County (Southeast)--White Plains & Rye City",24777,24316,25380,461,46,27,0,4.62,21328,2988,3449,-0.418,52815,64162
+3603111,"Westchester County (Central)",28023,27081,26892,942,17,14,0,5.58,19987,7094,8036,-0.418,42183,49978
+3603112,"Westchester County (Southwest)--Yonkers City",17852,18035,19908,-184,116,71,0,0.05,16011,2024,1841,-0.418,68841,98965
+3603113,"Westchester County (South Central East)--Mount Vernon City",22192,21964,18804,228,68,36,0,-1.68,20476,1488,1716,-0.418,43341,56005
+3603114,"Westchester County (South Central West)--New Rochelle City",26781,26340,21828,440,30,28,0,-0.77,19256,7084,7525,-0.416,47886,52911
+3603201,"Nassau County (Northwest)--North Hempstead Town (North)",27313,26304,27492,1009,22,13,0,12.69,24089,2215,3224,-0.419,40799,51148
+3603202,"Nassau County (Northeast)--Oyster Bay Town (North) & Glen Cove City",28243,27853,27816,390,15,30,0,12.55,18213,9640,10030,-0.419,45702,48305
+3603203,"Nassau County (East Central)--Oyster Bay Town (Central)",28220,28137,29136,83,16,49,0,18.15,13893,14244,14327,-0.418,41164,40865
+3603204,"Nassau County (West Central)--North Hempstead Town (South)",25345,25161,26484,184,42,41,0,13.99,14752,10409,10593,-0.418,41568,46817
+3603205,"Nassau County (West Central)--Hempstead Town (Northwest)",25928,25920,25872,8,37,56,0,15.4,14025,11895,11903,-0.418,42703,45006
+3603206,"Nassau County (Central)--Hempstead Town (North Central)--Meadowbrook Corridor",19662,20933,22200,-1270,99,143,0,-12.29,10818,10115,8844,-0.418,53238,54778
+3603207,"Nassau County (Central)--Hempstead Town (Northeast)",26166,26265,28548,-99,32,61,0,13.57,12108,14157,14058,-0.418,42598,43911
+3603208,"Nassau County (Southeast)--Oyster Bay Town (South)",24754,24994,27072,-240,47,76,0,13.62,12727,12267,12027,-0.418,42002,44695
+3603209,"Nassau County (Central)--Hempstead Town (East Central)",28424,28214,28068,210,14,40,0,18.57,13916,14298,14508,-0.418,39897,40282
+3603210,"Nassau County (South Central)--Hempstead Town (Southeast)",23121,23095,23652,26,63,55,0,10.79,13538,9557,9583,-0.417,38045,45455
+3603211,"Nassau County (West Central)--Hempstead Town (West Central)",26801,27071,24420,-270,29,79,0,11.27,13145,13926,13656,-0.418,44944,43480
+3603212,"Nassau County (Southwest)--Hempstead Town (Southwest) & Long Beach City",23167,23005,25908,162,61,42,0,6.52,15896,7109,7271,-0.417,39248,48317
+3603301,"Suffolk County (Northwest)--Huntington Town (North)",23948,24067,25776,-119,54,68,0,7.29,14418,9649,9530,-0.417,38437,43374
+3603302,"Suffolk County (Northwest)--Huntington Town (South)",27215,26739,25728,476,23,26,0,10.79,15273,11466,11942,-0.418,36785,41519
+3603303,"Suffolk County (Northwest)--Smithtown Town",26813,26920,25860,-108,28,66,0,14.41,13682,13238,13131,-0.418,45902,47109
+3603304,"Suffolk County (North Central)--Brookhaven Town (North)",20676,21460,25740,-785,88,122,0,9.92,13745,7715,6931,-0.416,42153,47825
+3603305,"Suffolk County (East)",10639,11271,24396,-632,144,109,0,2.53,20810,-9539,-10171,-0.409,59291,120831
+3603306,"Suffolk County (South Central)--Brookhaven Town (South)",18720,19831,26172,-1111,109,140,0,-2.57,10152,9679,8568,-0.416,50729,58132
+3603307,"Suffolk County (Central)--Brookhaven Town (Central)",21875,22703,25716,-828,73,126,0,0.32,10625,12078,11250,-0.417,52185,55765
+3603308,"Suffolk County (Central)--Brookhaven Town (West Central)",21642,22748,25296,-1106,78,139,0,4.48,10612,12136,11030,-0.417,42782,43603
+3603309,"Suffolk County (Central)--Islip Town (East)",23908,24455,27084,-547,56,99,0,6.98,12173,12282,11735,-0.417,41247,43227
+3603310,"Suffolk County (Central)--Islip Town (Northwest)",25812,27743,22248,-1932,39,147,0,-7.27,9444,18299,16368,-0.417,51454,39524
+3603311,"Suffolk County (Southwest)--Islip Town (South)",23632,24410,25488,-778,57,121,0,4.54,12627,11783,11005,-0.417,44891,45150
+3603312,"Suffolk County (Southwest)--Babylon Town (Southeast)",24121,24960,26076,-839,50,127,0,3.53,10615,14345,13506,-0.417,42145,40891
+3603313,"Suffolk County (West Central)--Babylon Town (Northwest)",23975,24708,23232,-733,53,116,0,-4.29,11016,13692,12959,-0.417,44725,44372
+3604103,"NYC-Manhattan Community District 3--Lower East Side & Chinatown",19748,19018,15144,730,97,22,0,-1.64,13689,5329,6059,-0.419,56285,93994
+3604104,"NYC-Manhattan Community District 4--Chelsea & Hell's Kitchen",27704,25513,27912,2191,19,3,0,-6.21,13689,11824,14015,-0.42,56082,92891
+3604107,"NYC-Manhattan Community District 7--Upper West Side",30543,28136,29544,2407,4,2,0,-4.38,13689,14447,16854,-0.425,99603,149971
+3604108,"NYC-Manhattan Community District 8--Upper East Side & Roosevelt Island",29181,26692,30792,2489,11,1,0,-0.43,13689,13003,15492,-0.425,96171,161162
+3604109,"NYC-Manhattan Community District 9--Morningside Heights & Hamilton Heights",25995,25433,20364,562,36,23,0,-12.55,13689,11744,12306,-0.418,46045,52817
+3604110,"NYC-Manhattan Community District 10--Harlem",18891,18569,16488,322,108,32,0,-23.42,13689,4880,5202,-0.419,47425,73347
+3604111,"NYC-Manhattan Community District 11--East Harlem",15564,15418,14040,145,129,46,0,-18.46,13689,1729,1875,-0.418,38656,69354
+3604112,"NYC-Manhattan Community District 12--Washington Heights & Inwood",18949,18793,19008,156,106,44,0,-8.41,13689,5104,5260,-0.42,66141,97119
+3604121,"NYC-Manhattan Community Districts 1 & 2--Financial District & Greenwich Village",29243,27183,39840,2060,9,5,0,-0.79,13689,13494,15554,-0.422,77448,112687
+3604165,"NYC-Manhattan Community Districts 5 & 6--Midtown, East Midtown, & Flatiron",25238,23191,35184,2048,43,7,0,-5.84,13689,9502,11549,-0.423,83743,155343
+3604204,"NYC-Bronx Community District 4--Highbridge & Concourse",12241,12993,16176,-753,141,118,0,-16.54,13689,-696,-1448,-0.419,40406,65980
+3604205,"NYC-Bronx Community District 5--Morris Heights & Mount Hope",10708,11522,16908,-813,143,125,0,-16.99,13689,-2167,-2981,-0.418,31309,55292
+3604207,"NYC-Bronx Community District 7--Fordham, Bedford Park, & Norwood",15178,16120,18504,-942,132,131,0,-10.96,13689,2431,1489,-0.419,46351,61165
+3604208,"NYC-Bronx Community District 8--Riverdale, Kingsbridge, & Marble Hill",19198,19132,19332,66,103,50,0,0.78,22849,-3717,-3651,-0.418,33549,47858
+3604209,"NYC-Bronx Community District 9--Soundview & Parkchester",13388,14112,16956,-724,138,115,0,-12.24,13115,997,273,-0.419,50511,78095
+3604210,"NYC-Bronx Community District 10--Co-op City & Throgs Neck",17055,17743,18048,-688,122,113,0,-1.2,14196,3547,2859,-0.419,46758,60840
+3604211,"NYC-Bronx Community District 11--Pelham Parkway & Morris Park",15760,16312,18780,-552,127,100,0,-1.12,14636,1676,1124,-0.418,36917,53110
+3604212,"NYC-Bronx Community District 12--Wakefield, Williamsbridge, & Eastchester",15430,16059,17988,-629,131,108,0,-10.21,13176,2883,2254,-0.419,47874,68720
+3604221,"NYC-Bronx Community Districts 1 & 2--Melrose, Mott Haven, Longwood, & Hunts Point",12852,13500,13500,-648,139,110,0,-19.28,13689,-189,-837,-0.419,41270,67355
+3604263,"NYC-Bronx Community Districts 3 & 6--Morrisania, Tremont, Belmont, & West Farms",9599,10186,14544,-587,146,104,0,-18.67,13053,-2867,-3454,-0.418,36635,76776
+3604301,"NYC-Brooklyn Community District 1--Williamsburg & Greenpoint",26091,25052,26496,1039,34,11,0,-5.29,13689,11363,12402,-0.42,77022,99661
+3604302,"NYC-Brooklyn Community District 2--Downtown Brooklyn & Fort Greene",32317,30171,32868,2146,1,4,0,-11.93,40120,-9949,-7803,-0.421,57469,73611
+3604303,"NYC-Brooklyn Community District 3--Bedford-Stuyvesant",21451,21040,22068,412,82,29,0,-21.76,13689,7351,7762,-0.42,62192,86076
+3604304,"NYC-Brooklyn Community District 4--Bushwick",21572,21772,24228,-200,79,73,0,-14.31,25732,-3960,-4160,-0.419,45706,53529
+3604305,"NYC-Brooklyn Community District 5--East New York & Cypress Hills",15466,16150,17004,-684,130,112,0,-13.97,17150,-1000,-1684,-0.42,63836,89446
+3604306,"NYC-Brooklyn Community District 6--Park Slope & Carroll Gardens",31808,29755,31044,2054,2,6,0,-7.8,54297,-24542,-22489,-0.42,49983,64291
+3604307,"NYC-Brooklyn Community District 7--Sunset Park & Windsor Terrace",26830,26614,22716,216,26,39,0,-4.86,39151,-12537,-12321,-0.419,49225,51278
+3604308,"NYC-Brooklyn Community District 8--Crown Heights (North)",25604,24799,21036,805,41,21,0,-17.79,13689,11110,11915,-0.419,46724,58789
+3604309,"NYC-Brooklyn Community District 9--Crown Heights (South)",20000,19999,19692,1,96,57,0,-12.13,32499,-12500,-12499,-0.418,37076,49673
+3604310,"NYC-Brooklyn Community District 10--Bay Ridge & Dyker Heights",19127,18862,21120,265,104,34,0,10.95,27901,-9039,-8774,-0.418,41179,62636
+3604311,"NYC-Brooklyn Community District 11--Bensonhurst & Bath Beach",17492,18079,19944,-587,119,103,0,13.66,29318,-11239,-11826,-0.419,60615,79087
+3604312,"NYC-Brooklyn Community District 12--Borough Park & Kensington",18343,18824,20616,-482,111,93,0,2.26,31072,-12248,-12729,-0.418,54984,70943
+3604313,"NYC-Brooklyn Community District 13--Coney Island & Brighton Beach",14174,14511,15828,-337,136,82,0,5.33,14046,465,128,-0.417,32961,56098
+3604314,"NYC-Brooklyn Community District 14--Flatbush & Midwood",20201,20170,20124,30,95,54,0,-2.23,26228,-6058,-6027,-0.419,55248,74270
+3604315,"NYC-Brooklyn Community District 15--Sheepshead Bay & Gravesend (East)",15605,15807,19368,-203,128,74,0,14.69,24358,-8551,-8753,-0.418,45634,74457
+3604316,"NYC-Brooklyn Community District 16--Ocean Hill & Brownsville",13847,14201,13452,-354,137,84,0,-20,12416,1785,1431,-0.418,27285,46405
+3604317,"NYC-Brooklyn Community District 17--East Flatbush",16760,17216,18972,-456,124,89,0,-13.1,16788,428,-28,-0.419,53211,74230
+3604318,"NYC-Brooklyn Community District 18--Canarsie & Flatlands",16564,17000,20088,-436,126,87,0,-2.61,17589,-589,-1025,-0.42,61068,87257
+3604401,"NYC-Queens Community District 1--Astoria & Queensbridge",20210,19673,24360,538,94,24,0,1.7,19658,15,552,-0.421,71455,109805
+3604402,"NYC-Queens Community District 2--Long Island City, Sunnyside, & Woodside",27375,26303,24372,1073,21,10,0,1.53,18522,7781,8853,-0.42,57032,70277
+3604403,"NYC-Queens Community District 3--Jackson Heights & East Elmhurst",22153,22654,22092,-501,69,96,0,-3.03,16003,6651,6150,-0.42,65401,70021
+3604404,"NYC-Queens Community District 4--Elmhurst & Corona",22108,22966,22104,-858,71,129,0,3.2,19496,3470,2612,-0.421,66227,65780
+3604405,"NYC-Queens Community District 5--Ridgewood, Maspeth, & Middle Village",23920,23855,22428,64,55,51,0,7.72,16099,7756,7821,-0.42,72190,81815
+3604406,"NYC-Queens Community District 6--Forest Hills & Rego Park",25842,25023,24324,819,38,20,0,16.82,18627,6396,7215,-0.419,52306,65612
+3604407,"NYC-Queens Community District 7--Flushing, Murray Hill, & Whitestone",19229,19686,21144,-457,102,90,0,13.1,18601,1085,628,-0.421,91977,114194
+3604408,"NYC-Queens Community District 8--Fresh Meadows, Hillcrest, & Briarwood",21541,21794,21120,-252,80,77,0,9,16692,5102,4849,-0.419,58058,68454
+3604409,"NYC-Queens Community District 9--Kew Gardens, Richmond Hill, & Woodhaven",22536,23132,22224,-596,66,105,0,3.48,13957,9175,8579,-0.419,54369,56742
+3604410,"NYC-Queens Community District 10--South Ozone Park & Howard Beach",24084,24649,22716,-565,52,102,0,0.49,12653,11996,11431,-0.419,51020,50890
+3604411,"NYC-Queens Community District 11--Auburndale, Bayside, & Douglaston",21398,21304,27204,93,84,48,0,17.35,17053,4251,4345,-0.418,42281,55042
+3604412,"NYC-Queens Community District 12--Jamaica, St. Albans, & Hollis",21007,22004,19116,-996,85,135,0,-14.13,11762,10242,9245,-0.422,93670,96144
+3604413,"NYC-Queens Community District 13--Queens Village, Bellerose, & Rosedale",22150,22665,22824,-516,70,97,0,-4.75,12007,10658,10143,-0.421,71896,78400
+3604414,"NYC-Queens Community District 14--The Rockaways",16757,17513,16980,-756,125,119,0,-7.73,14046,3467,2711,-0.418,43337,56685
+3604501,"NYC-Staten Island Community District 1--North Shore",20260,20743,19080,-483,92,95,0,-4.84,12247,8496,8013,-0.419,68370,81269
+3604502,"NYC-Staten Island Community District 2--Mid-Island",21428,21775,18372,-347,83,83,0,8.93,14100,7675,7328,-0.418,51152,59876
+3604503,"NYC-Staten Island Community District 3--South Shore",19278,19761,20460,-483,101,94,0,14.88,13723,6038,5555,-0.418,56941,71650

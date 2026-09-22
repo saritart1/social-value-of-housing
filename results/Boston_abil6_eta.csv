@@ -1,0 +1,39 @@
+gid,name,eta_closed,eta_open,households
+2500601,"Middlesex County (Northwest)--Outside Lowell",-0.429,-0.42,50906
+2500602,"Middlesex County--Lowell",-0.425,-0.418,40914
+2500603,"Middlesex County (Northeast)--Billerica, Tewksbury & Dracut",-0.426,-0.419,42348
+2500604,"Middlesex County (West Central)",-0.428,-0.419,41521
+2500605,"Middlesex County--Framingham & Marlborough",-0.425,-0.418,43086
+2500606,"Middlesex County (Southwest)",-0.429,-0.419,44313
+2500607,"Middlesex County--Lexington, Burlington & Wilmington",-0.433,-0.421,50223
+2500608,"Middlesex County--Woburn, Melrose & Reading",-0.436,-0.422,67549
+2500609,"Middlesex County (East)--Malden & Medford",-0.43,-0.42,55197
+2500610,"Middlesex County (East)--Somerville & Everett",-0.432,-0.42,61408
+2500611,"Middlesex County (East)--Cambridge",-0.43,-0.418,55783
+2500612,"Middlesex County--Watertown, Arlington & Belmont",-0.43,-0.42,42920
+2500613,"Middlesex County--Newton & Waltham",-0.431,-0.42,53405
+2500701,"Essex County (Northwest)--Haverhill & Methuen",-0.427,-0.419,47208
+2500702,"Essex County (West)--Lawrence & Andover",-0.428,-0.419,47601
+2500703,"Essex County (North)--Newburyport, Amesbury & North Andover",-0.427,-0.418,46687
+2500704,"Essex County (Central)--Peabody, Danvers & Saugus",-0.432,-0.421,64885
+2500705,"Essex County--Lynn & Nahant",-0.425,-0.418,37888
+2500706,"Essex County (South Coastline)--Salem, Beverly & Gloucester",-0.429,-0.418,63596
+2500801,"Boston City--Allston, Brighton & Fenway",-0.43,-0.42,52612
+2500802,"Boston City--Back Bay, Beacon Hill, Charlestown, East Boston, Central & South End",-0.435,-0.42,69469
+2500803,"Boston City--Dorchester & South Boston",-0.43,-0.42,51488
+2500804,"Boston City--Mattapan & Roxbury",-0.428,-0.42,46343
+2500805,"Boston City--Hyde Park, Jamaica Plain, Roslindale & West Roxbury",-0.431,-0.42,53632
+2500806,"Suffolk County (North)--Revere, Chelsea & Winthrop",-0.428,-0.419,46784
+2500901,"Norfolk County (Northwest)--Needham, Wellesley & Westwood",-0.432,-0.421,47838
+2500902,"Norfolk County--Brookline, Milton & Dedham",-0.43,-0.42,44599
+2500903,"Norfolk County--Quincy",-0.425,-0.418,36678
+2500904,"Norfolk County (Northeast)--Weymouth, Braintree, Randolph & Cohasset",-0.43,-0.42,57789
+2500905,"Norfolk County (Central)--Norwood, Stoughton & Canton",-0.428,-0.42,44730
+2500906,"Norfolk County (Southwest)--Franklin, Walpole & Foxborough",-0.429,-0.419,50565
+2501101,"Plymouth County--Brockton",-0.422,-0.416,34538
+2501102,"Plymouth County (West)--Bridgewater, Abington & Whitman",-0.427,-0.419,46615
+2501103,"Plymouth County (North)--Marshfield, Hingham & Scituate",-0.429,-0.419,49782
+2501104,"Plymouth County (South)--Plymouth Town, Middleborough & Wareham",-0.424,-0.416,55224
+3300301,"Strafford & Rockingham (Northern) Counties",-0.421,-0.412,57120
+3300701,"Outer Manchester City",-0.426,-0.416,63886
+3300801,"Seacoast Region--Rockingham County (Southern), Portsmouth City",-0.43,-0.417,71540

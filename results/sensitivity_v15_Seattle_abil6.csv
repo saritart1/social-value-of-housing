@@ -1,0 +1,18 @@
+param,value,max_wedge_usd,max_wedge_where,eta_med,dereg_net_per_hh,converged
+baseline,NaN,2458,King County (Northwest Central)--Greater Bellevue City,-0.433,2758,1
+alpha,0.25,2250,King County (Northwest Central)--Greater Bellevue City,-0.476,1067,1
+alpha,0.35,2631,King County (Northwest Central)--Greater Bellevue City,-0.397,5522,1
+theta,2,1828,King County (Northwest Central)--Greater Bellevue City,-0.572,2710,1
+theta,5,3385,King County (Northwest Central)--Greater Bellevue City,-0.233,2838,1
+lambda_scale,0.67,2373,King County (Northwest Central)--Greater Bellevue City,-0.434,2758,1
+lambda_scale,1.33,2551,King County (Northwest Central)--Greater Bellevue City,-0.432,2757,1
+omega,0.08,1584,King County (Northwest Central)--Greater Bellevue City,-0.474,2734,1
+omega,0.16,3471,King County (Northwest Central)--Greater Bellevue City,-0.385,2787,1
+dc,0.02,2523,King County (Northwest Central)--Greater Bellevue City,-0.433,3250,1
+dc,0.1,2256,King County (Northwest Central)--Greater Bellevue City,-0.434,1905,1
+kappa,0.007,2489,King County (Northwest Central)--Greater Bellevue City,-0.433,3599,1
+kappa,0.014,2381,King County (Northwest Central)--Greater Bellevue City,-0.434,1949,1
+mc_scale,0.8,2458,King County (Northwest Central)--Greater Bellevue City,-0.433,4378,1
+mc_scale,1.4,2458,King County (Northwest Central)--Greater Bellevue City,-0.433,988,1
+dereg_epsS,0.5,2458,King County (Northwest Central)--Greater Bellevue City,-0.433,1929,1
+dereg_epsS,2,2458,King County (Northwest Central)--Greater Bellevue City,-0.433,4053,1

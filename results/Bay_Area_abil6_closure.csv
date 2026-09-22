@@ -1,0 +1,55 @@
+gid,name,price_usd,welfare_closed,wedge_closed,welfare_open,wedge_open,migration_usd,dGDPmetro_open,dGDPnat_open,households
+600101,"Alameda County (North)--Berkeley & Albany Cities",27907,27679,-228,22390,-5517,-5289,38185,21959,51997
+600111,"Alameda County (Northwest)--Oakland City (Downtown/West Oakland/North Oakland)",26952,26927,-25,21896,-5056,-5031,38662,23178,43613
+600112,"Alameda County (Northwest)--Oakland City (Oakland Hills)",29503,29936,433,24811,-4692,-5125,44209,25458,42394
+600113,"Alameda County (West)--Oakland City (Elmhurst/Central/East Oakland)",23389,21419,-1970,16030,-7359,-5388,25243,14208,40802
+600114,"Alameda County (West)--San Leandro, Alameda, Emeryville & Piedmont Cities",25904,25174,-730,20100,-5804,-5073,34389,19325,67752
+600115,"Alameda County (Northwest)--Castro Valley & Ashland",25030,23527,-1504,18256,-6774,-5271,29977,15836,35883
+600116,"Alameda County (Central)--Hayward City (East)",19067,16780,-2287,12393,-6674,-4387,21501,10385,30926
+600117,"Alameda County (South)--Newark, Union City (West) & Fremont (West) Cities",37914,38490,576,31526,-6388,-6964,57622,34788,36947
+600118,"Alameda County (South)--Fremont (Northeast) & Union City (East) Cities",34083,34172,90,27762,-6321,-6410,50111,29599,46011
+600119,"Alameda County (Central)--Pleasanton & Dublin (West) Cities",35411,36187,776,30077,-5334,-6109,54348,31102,44657
+600120,"Alameda County (East)--Livermore & Dublin (East) Cities",30621,30298,-323,24762,-5859,-5536,44543,23891,40980
+600121,"Alameda County (South)--Fremont City (Southeast)",39260,40764,1503,33959,-5302,-6805,62666,37998,40411
+600122,"Alameda County (West)--Hayward City (West)",28092,26047,-2045,19716,-8376,-6331,32726,18758,34529
+600123,"Alameda County (Northwest)--Oakland City (San Antonio/Fruitvale)",23867,22580,-1287,17495,-6372,-5085,28395,15983,35324
+601301,"Contra Costa County (Far Southwest)--Richmond (Southwest) & San Pablo Cities",21220,19329,-1892,14424,-6796,-4905,23784,13728,40149
+601305,"Contra Costa County (South)--San Ramon City & Danville Town",33056,33202,146,27512,-5544,-5690,51189,28294,50613
+601308,"Contra Costa County (Northeast)--Antioch City",22966,20161,-2804,14834,-8131,-5327,24551,12494,42011
+601309,"Contra Costa County (East)--Brentwood & Oakley Cities",23563,21067,-2495,15958,-7604,-5109,26101,12124,43761
+601310,"Contra Costa County (Far Northwest)--Richmond (North), Hercules & El Cerrito Cities",26315,25083,-1232,19815,-6501,-5268,34094,18609,51738
+601311,"Contra Costa County (West)--Concord (West), Martinez & Pleasant Hill Cities",25809,24717,-1092,19535,-6274,-5182,34359,19674,44152
+601312,"Contra Costa County (West)--Walnut Creek (West), Lafayette & Orinda Cities",27842,28190,348,23365,-4477,-4826,41982,23875,33189
+601313,"Contra Costa County (Central)--Concord (South), Walnut Creek (East) & Clayton Cities",26949,26138,-811,20953,-5995,-5185,37852,21503,66028
+601314,"Contra Costa County (North)--Pittsburg & Concord (North) Cities",23778,21025,-2754,15368,-8410,-5656,25981,14844,34556
+604103,"Marin County (North & West)--Novato & San Rafael (North) Cities",21500,20117,-1383,15733,-5767,-4384,28449,15543,37347
+604104,"Marin County (Southeast)--San Rafael (South), Mill Valley & Sausalito Cities",24945,25188,243,20763,-4182,-4425,38148,22611,48112
+607507,"San Francisco County (South Central)--Bayview & Hunters Point",27715,26506,-1210,20644,-7071,-5861,36347,22621,35768
+607508,"San Francisco County (Northwest)--Richmond, Western Addition & Presidio",18384,15584,-2800,11901,-6483,-3683,28683,13808,40526
+607509,"San Francisco County (Northeast)--Chinatown, North Beach & Russian Hill",19340,19581,242,16048,-3292,-3534,30961,19969,38512
+607510,"San Francisco County (Southeast)--South of Market & Mission",38354,39988,1635,33412,-4941,-6576,63982,42077,50610
+607511,"San Francisco County (Southwest)--Central & Bernal Heights",34270,35535,1265,29650,-4620,-5885,56194,35871,56640
+607512,"San Francisco County (Southwest)--Outer Sunset & Inner Sunset",29015,29218,203,23954,-5061,-5265,44615,27521,34559
+607513,"San Francisco County (Southwest)--Ingleside & South Central",32338,32506,168,26571,-5767,-5935,48355,29394,35953
+607514,"San Francisco County (Northwest)--Western Addition & Marina",26948,27713,765,22973,-3975,-4740,43956,28522,41745
+608101,"San Mateo County (North Central)--Daly City, Pacifica Cities & Colma Town",28873,27754,-1119,21919,-6953,-5835,39225,23100,50708
+608102,"San Mateo County (North Central)--South San Francisco, San Bruno & Brisbane Cities",29217,28646,-571,22863,-6354,-5783,41772,25801,43068
+608103,"San Mateo County (Central)--San Mateo (North), Burlingame & Millbrae Cities",29199,29542,343,24197,-5001,-5344,46069,28769,37512
+608104,"San Mateo County (South & West)--San Mateo (South) & Half Moon Bay Cities",27187,26949,-237,22041,-5145,-4908,44765,26589,45128
+608105,"San Mateo County (East Central)--Redwood City, San Carlos & Belmont Cities",35607,36917,1310,30594,-5014,-6324,60412,39424,51246
+608106,"San Mateo County (Southeast)--Menlo Park, East Palo Alto Cities & Atherton Town",31852,32583,731,26655,-5197,-5928,53720,35473,37182
+608505,"Santa Clara County (North Central)--San Jose City (East Central) & Alum Rock",37286,36701,-585,28966,-8320,-7735,51332,31433,38341
+608506,"Santa Clara County (East)--Gilroy, Morgan Hill & San Jose (South) Cities",26455,24207,-2248,18535,-7920,-5672,33681,17340,45563
+608507,"Santa Clara County (Southwest)--Cupertino, Saratoga Cities & Los Gatos Town",36962,39283,2321,33126,-3837,-6158,65969,42800,46516
+608508,"Santa Clara County (Central)--San Jose (West Central) & Campbell Cities",36412,38015,1603,31487,-4925,-6528,59897,38613,51896
+608510,"Santa Clara County (Central)--San Jose City (Central)",29932,29987,55,23993,-5939,-5994,43606,27399,55162
+608511,"Santa Clara County (Central)--San Jose City (South Central/Branham) & Cambrian Park",32301,32878,577,26756,-5544,-6121,49386,30892,37031
+608512,"Santa Clara County (Central)--San Jose City (Southwest/Almaden Valley)",33836,34677,840,28532,-5304,-6144,53997,33291,38064
+608515,"Santa Clara County (Northwest)--Palo Alto City & Los Altos Hills Town",33426,35176,1749,29380,-4046,-5796,59912,39975,31856
+608516,"Santa Clara County (Northwest)--Sunnyvale City",44569,47095,2526,39339,-5230,-7756,78316,52212,69822
+608517,"Santa Clara County (Northwest)--Santa Clara City",40839,43148,2308,36012,-4827,-7136,69897,46162,49714
+608518,"Santa Clara County (Northwest)--San Jose (Berryessa) & Milpitas Cities",41805,43440,1635,35908,-5897,-7532,66167,41486,38021
+608519,"Santa Clara County (Central)--San Jose City (North)",30333,30829,496,24927,-5405,-5902,46828,30438,63368
+608520,"Santa Clara County (Central)--San Jose City (Southeast/Evergreen)",36219,36405,186,29384,-6836,-7022,53136,32287,38704
+608521,"Santa Clara County (North)--San Jose City (North Valley/East San Jose)",36304,35914,-390,28368,-7936,-7546,50487,31732,45533
+608522,"Santa Clara County (Northwest)--Mountain View & Los Altos Cities",38015,40973,2958,34721,-3294,-6252,69931,47105,40950

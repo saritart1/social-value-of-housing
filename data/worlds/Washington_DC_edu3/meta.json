@@ -1,0 +1,91 @@
+{
+ "metro": "Washington DC",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  28432.0,
+  52715.0,
+  74809.0,
+  96757.0,
+  120468.0,
+  147788.0,
+  183378.0,
+  242595.0,
+  321297.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 2500007,
+ "decile_cutoffs_person_earnings": [
+  10632.0,
+  25015.0,
+  36481.0,
+  51073.0,
+  63581.0,
+  83385.0,
+  104231.0,
+  130289.0,
+  171981.0
+ ],
+ "pums": {
+  "workers_metro_res": 34450,
+  "powpuma_match_rate": 0.893,
+  "cells_workplace": 440,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -21.89,
+  14.98
+ ],
+ "fhfa": {
+  "tracts_matched": 1122,
+  "mc_yr_range": [
+   7177,
+   28842
+  ],
+  "struct_val_median": 243367,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "education",
+  "K": 3,
+  "names": [
+   "HS or less",
+   "Some college/AA",
+   "BA+"
+  ],
+  "group_share_of_workers": [
+   0.2285,
+   0.2158,
+   0.5558
+  ],
+  "mean_earnings": [
+   44398.60135215977,
+   56620.962082943064,
+   117496.93795562198
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.363,
+   0.445,
+   0.758
+  ]
+ }
+}

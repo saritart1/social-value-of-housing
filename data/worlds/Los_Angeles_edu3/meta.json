@@ -1,0 +1,91 @@
+{
+ "metro": "Los Angeles",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  17842.0,
+  34404.0,
+  51568.0,
+  69481.0,
+  89678.0,
+  112479.0,
+  140930.0,
+  184251.0,
+  280214.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 5246886,
+ "decile_cutoffs_person_earnings": [
+  10423.0,
+  19804.0,
+  27100.0,
+  35439.0,
+  43777.0,
+  57327.0,
+  72962.0,
+  97977.0,
+  140712.0
+ ],
+ "pums": {
+  "workers_metro_res": 65957,
+  "powpuma_match_rate": 0.883,
+  "cells_workplace": 910,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -16.86,
+  15.52
+ ],
+ "fhfa": {
+  "vintage": "2010-routed",
+  "tracts_matched": 1677,
+  "mc_yr_range": [
+   7840,
+   36335
+  ],
+  "struct_val_median": 229648,
+  "mc_patched": "2026-07-20"
+ },
+ "type_dimension": {
+  "kind": "education",
+  "K": 3,
+  "names": [
+   "HS or less",
+   "Some college/AA",
+   "BA+"
+  ],
+  "group_share_of_workers": [
+   0.3305,
+   0.2719,
+   0.3976
+  ],
+  "mean_earnings": [
+   39235.032396380215,
+   53701.08489984667,
+   105044.73286988308
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.444,
+   0.587,
+   0.839
+  ]
+ }
+}

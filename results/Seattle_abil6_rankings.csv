@@ -1,0 +1,33 @@
+gid,name,welfare_usd,price_model_usd,rent_data_usd,wedge_usd,welfare_rank,wedge_rank,unpriced_soc_usd,mu_pct,mc_usd,profit_usd,net_social_usd,eta_model,households,H_units
+5323301,"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",27198,26207,23220,992,7,9,0,5.65,12171,14036,15027,-0.436,50956,66211
+5323302,"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",18458,19141,27120,-683,21,19,0,7.69,14384,4757,4074,-0.44,44131,57750
+5323303,"King County (Northwest)--Redmond, Kirkland Cities, Ingelwood & Finn Hill",31109,29176,27360,1933,2,2,0,7.74,14802,14374,16307,-0.443,64032,86711
+5323304,"King County (Northwest Central)--Greater Bellevue City",35289,32815,29052,2474,1,1,0,9.38,14445,18370,20844,-0.45,64480,82999
+5323305,"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",30532,28953,28896,1579,3,4,0,12.11,21116,7837,9416,-0.447,58765,76000
+5323306,"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",15250,16745,21936,-1495,27,28,0,1.98,10516,6229,4734,-0.437,46942,60291
+5323307,"King County (Southwest)--Auburn City & Lakeland",19114,20007,19308,-893,18,22,0,-0.72,8193,11814,10921,-0.432,46802,58099
+5323308,"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",16890,17736,19836,-846,24,21,0,0.11,9255,8481,7635,-0.432,49276,67779
+5323309,"King County (Southwest Central)--Kent City",18639,19465,21000,-826,19,20,0,0.15,8967,10498,9672,-0.433,48367,60847
+5323310,"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",23458,23239,22272,219,13,13,0,-0.36,9746,13493,13712,-0.434,55213,70981
+5323311,"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",20832,20887,19848,-55,16,16,0,-2.44,8538,12349,12294,-0.432,51052,69359
+5323312,"Seatle City (West Seattle-Industrial)",25371,24331,22236,1040,9,8,0,-3.24,10035,14296,15336,-0.433,43809,63255
+5323313,"Seattle City (Southeast)",23483,22862,20928,621,12,11,0,-4.12,11597,11265,11886,-0.428,36966,51728
+5323314,"Seattle City (Central)",25341,24012,22644,1329,10,6,0,-9.18,16815,7197,8526,-0.434,50250,77153
+5323315,"Seattle City (Lake Union-Downtown)",26631,24943,26268,1688,8,3,0,-5.05,18426,6517,8205,-0.436,52549,83601
+5323316,"Seattle City (Northwest)",28644,27158,25272,1486,5,5,0,-1.68,12483,14675,16161,-0.435,48267,65568
+5323317,"Seattle City (Northeast)",27539,26399,23088,1139,6,7,0,2.98,12694,13705,14845,-0.433,47447,61666
+5323318,"Seattle City (North)",23731,22745,21384,986,11,10,0,-0.67,10647,12098,13084,-0.432,43802,66492
+5325301,"Tacoma City (North)",17462,18033,17976,-571,23,17,0,-4.01,9216,8817,8246,-0.43,44980,66918
+5325302,"Tacoma City (South)",16152,17290,17676,-1137,25,25,0,-9.57,6814,10476,9338,-0.429,37092,50338
+5325303,"Pierce County (North Central)--Bonney Lake, Edgewood, Fife & Sumner Cities",18535,19453,21468,-918,20,23,0,-1.87,9793,9660,8742,-0.429,38112,49258
+5325304,"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",9260,12026,21564,-2766,32,32,0,-4.88,8710,3316,550,-0.44,46860,59702
+5325305,"Pierce County (East Central)--Puyallup City & South Hill",18011,19317,20928,-1306,22,27,0,-0.72,8928,10389,9083,-0.433,52563,64000
+5325306,"Pierce County (South Central)--Parkland & Spanaway",15760,17442,17832,-1683,26,29,0,-9.41,7618,9824,8142,-0.431,40411,49478
+5325307,"Pierce County (West Central)--Lakewood & University Place Cities",14545,15512,16896,-968,29,24,0,-5.65,8486,7026,6059,-0.428,39115,60415
+5325308,"Pierce County (Northwest)--Peninsula Region & JBLM",13499,15559,25032,-2060,31,31,0,-2.26,12525,3034,974,-0.432,44027,54791
+5326101,"Snohomish County (North)--Marysville & Arlington Cities",14864,16055,20304,-1191,28,26,0,-1.32,9168,6887,5696,-0.433,53638,75503
+5326102,"Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",14115,15946,21168,-1832,30,30,0,-1.22,10068,5878,4047,-0.439,54665,68154
+5326103,"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",29315,28719,27648,596,4,12,0,7.29,13378,15341,15937,-0.44,58525,64658
+5326104,"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",21655,21518,21024,137,15,14,0,3.39,10314,11204,11341,-0.432,48532,66105
+5326105,"Snohomish County (West Central)--Mukilteo & Martha Lake",22601,22655,23376,-54,14,15,0,4.38,11640,11015,10961,-0.43,42416,53484
+5326106,"Snohomish County (Central)--Everett City & Eastmont",19124,19773,19812,-650,17,18,0,-3.57,8734,11039,10390,-0.435,61655,79873

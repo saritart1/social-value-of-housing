@@ -1,0 +1,112 @@
+{
+ "metro": "Seattle",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  25762.0,
+  46876.0,
+  65647.0,
+  85622.0,
+  107248.0,
+  131670.0,
+  164532.0,
+  211015.0,
+  305508.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 1758964,
+ "decile_cutoffs_person_earnings": [
+  12508.0,
+  27100.0,
+  38566.0,
+  51073.0,
+  62539.0,
+  78173.0,
+  99020.0,
+  125077.0,
+  186574.0
+ ],
+ "pums": {
+  "workers_metro_res": 20894,
+  "powpuma_match_rate": 0.899,
+  "cells_workplace": 320,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -9.57,
+  12.11
+ ],
+ "fhfa": {
+  "tracts_matched": 568,
+  "mc_yr_range": [
+   6813,
+   21116
+  ],
+  "struct_val_median": 203811,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "predicted_ability_deciles",
+  "K": 6,
+  "with_occupation": false,
+  "wage_equation_r2_with_puma_fe": 0.3375,
+  "index": "characteristic part of a PUMA-fixed-effects log-earnings regression",
+  "covariates": [
+   "education(6)",
+   "age",
+   "age^2",
+   "sex",
+   "field of degree",
+   "nativity",
+   "citizenship",
+   "arrival decade",
+   "English",
+   "race",
+   "hispanic origin"
+  ],
+  "with_race": true,
+  "group_share_of_workers": [
+   0.1666,
+   0.1668,
+   0.1666,
+   0.1666,
+   0.1667,
+   0.1667
+  ],
+  "mean_earnings": [
+   31493.601456457287,
+   54617.27392777142,
+   69800.90938781446,
+   85303.52776730145,
+   114480.86483810547,
+   191023.81462051749
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.247,
+   0.445,
+   0.543,
+   0.642,
+   0.758,
+   0.908
+  ]
+ }
+}

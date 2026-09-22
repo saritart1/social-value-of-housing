@@ -1,0 +1,121 @@
+{
+ "metro": "New York",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  16545.0,
+  33444.0,
+  51989.0,
+  71697.0,
+  94407.0,
+  120328.0,
+  153394.0,
+  199370.0,
+  299310.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 8470496,
+ "decile_cutoffs_person_earnings": [
+  10423.0,
+  20846.0,
+  31269.0,
+  41692.0,
+  52116.0,
+  67750.0,
+  85470.0,
+  109443.0,
+  161558.0
+ ],
+ "pums": {
+  "workers_metro_res": 89133,
+  "powpuma_match_rate": 0.899,
+  "cells_workplace": 1470,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -24.33,
+  18.57
+ ],
+ "fhfa": {
+  "tracts_matched": 2495,
+  "mc_yr_range": [
+   8142,
+   54297
+  ],
+  "struct_val_median": 273778,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "predicted_ability_deciles",
+  "K": 10,
+  "with_occupation": false,
+  "wage_equation_r2_with_puma_fe": 0.334,
+  "index": "characteristic part of a PUMA-fixed-effects log-earnings regression",
+  "covariates": [
+   "education(6)",
+   "age",
+   "age^2",
+   "sex",
+   "field of degree",
+   "nativity",
+   "citizenship",
+   "arrival decade",
+   "English"
+  ],
+  "group_share_of_workers": [
+   0.0999,
+   0.1001,
+   0.1001,
+   0.0994,
+   0.1006,
+   0.1,
+   0.0998,
+   0.1002,
+   0.1,
+   0.1
+  ],
+  "mean_earnings": [
+   21259.607912682433,
+   37367.425246579434,
+   45396.54144848058,
+   54626.32646888871,
+   62096.053477138434,
+   73214.58056995498,
+   88702.34663297582,
+   107330.8969528137,
+   136321.42741777928,
+   196184.29613185595
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.213,
+   0.365,
+   0.436,
+   0.517,
+   0.55,
+   0.639,
+   0.716,
+   0.795,
+   0.863,
+   0.927
+  ]
+ }
+}

@@ -1,0 +1,18 @@
+param,value,max_wedge_usd,max_wedge_where,eta_med,dereg_net_per_hh,converged
+baseline,NaN,1866,Fairfax County (Northeast)--McLean & Idylwood,-0.426,3079,1
+alpha,0.25,1716,Fairfax County (Northeast)--McLean & Idylwood,-0.47,1055,1
+alpha,0.35,1991,Fairfax County (Northeast)--McLean & Idylwood,-0.39,6490,1
+theta,2,1395,Fairfax County (Northeast)--McLean & Idylwood,-0.567,3062,1
+theta,5,2550,Fairfax County (Northeast)--McLean & Idylwood,-0.225,3114,1
+lambda_scale,0.67,1815,Fairfax County (Northeast)--McLean & Idylwood,-0.427,3083,1
+lambda_scale,1.33,1923,Fairfax County (Northeast)--McLean & Idylwood,-0.425,3075,1
+omega,0.08,1187,Fairfax County (Northeast)--McLean & Idylwood,-0.468,3109,1
+omega,0.16,2655,Fairfax County (Northeast)--McLean & Idylwood,-0.378,3043,1
+dc,0.02,1957,Fairfax County (Northeast)--McLean & Idylwood,-0.426,3725,1
+dc,0.1,1644,Fairfax County (Northeast)--McLean & Idylwood,-0.427,1991,1
+kappa,0.007,1947,Fairfax County (Northeast)--McLean & Idylwood,-0.426,4226,1
+kappa,0.014,1749,Fairfax County (Northeast)--McLean & Idylwood,-0.426,1978,1
+mc_scale,0.8,1866,Fairfax County (Northeast)--McLean & Idylwood,-0.426,5061,1
+mc_scale,1.4,1866,Fairfax County (Northeast)--McLean & Idylwood,-0.426,995,1
+dereg_epsS,0.5,1866,Fairfax County (Northeast)--McLean & Idylwood,-0.426,1622,1
+dereg_epsS,2,1866,Fairfax County (Northeast)--McLean & Idylwood,-0.426,3346,1

@@ -1,0 +1,92 @@
+gid,name,price_usd,welfare_closed,wedge_closed,welfare_open,wedge_open,migration_usd,dGDPmetro_open,dGDPnat_open,households
+603703,"Los Angeles County (North Central)--Lancaster City",14340,12854,-1486,9877,-4462,-2977,16462,7561,47421
+603704,"Los Angeles County (North Central)--Palmdale City",18995,17003,-1992,12987,-6009,-4017,22153,10418,59529
+603705,"Los Angeles County (North)--LA City (Northwest/Chatsworth & Porter Ranch)",25245,25138,-107,20543,-4702,-4596,34972,19203,67614
+603706,"Los Angeles County (North)--LA City (North Central/Granada Hills & Sylmar)",22130,21431,-699,17085,-5045,-4346,28688,15773,45454
+603707,"Los Angeles County--LA (North Central/Arleta & Pacoima) & San Fernando Cities",24757,23276,-1482,18004,-6753,-5272,29912,16459,47318
+603708,"Los Angeles County (North)--LA City (Northeast/Sunland, Sun Valley & Tujunga)",21279,20579,-700,16363,-4916,-4216,27076,14709,43734
+603709,"Los Angeles County (Central)--San Gabriel Valley Region (North)",18483,18038,-445,14870,-3613,-3168,27616,13641,34923
+603710,"Los Angeles County--Baldwin Park, Azusa, Duarte & Irwindale Cities",25649,25040,-608,19987,-5662,-5053,35001,20439,60660
+603711,"Los Angeles County (East Central)--Glendora, Claremont, San Dimas & La Verne Cities",22649,22903,254,18929,-3720,-3975,32978,18624,51087
+603712,"Los Angeles County (East Central)--Pomona City",23561,22640,-921,17860,-5701,-4780,31670,18385,49118
+603713,"Los Angeles County (East Central)--Covina & Walnut Cities",24403,24038,-364,19414,-4989,-4625,33885,19334,38271
+603714,"Los Angeles County--Diamond Bar, La Habra Heights (East) Cities & Rowland Heights",24173,24268,96,19888,-4285,-4380,35206,20468,34431
+603715,"Los Angeles County (East Central)--West Covina City",23652,22900,-752,18193,-5459,-4707,31719,18161,38004
+603716,"Los Angeles County (East Central)--La Puente & Industry Cities",26340,25264,-1076,19829,-6511,-5435,34587,20289,33340
+603717,"Los Angeles County (East Central)--Arcadia, San Gabriel & Temple City Cities",24044,24488,444,20266,-3779,-4222,34972,20074,62197
+603718,"Los Angeles County (Central)--Pasadena City",21842,22394,552,18615,-3228,-3779,32684,19169,48891
+603719,"Los Angeles County (Central)--Glendale City",21486,21673,187,17848,-3638,-3826,29850,16501,66293
+603720,"Los Angeles County (Central)--Burbank City",20953,21116,163,17390,-3563,-3726,26871,13747,44982
+603721,"Los Angeles County (North)--LA City (Northeast/North Hollywood & Valley Village)",19639,19418,-221,15704,-3935,-3714,24486,12729,49986
+603722,"Los Angeles County (Northwest)--LA City (North Central/Van Nuys & North Sherman Oaks)",20082,19726,-356,15851,-4232,-3876,25356,13505,57822
+603723,"Los Angeles County (North)--LA City (North Central/Mission Hills & Panorama City)",21777,20610,-1167,16012,-5765,-4598,26334,14486,46289
+603724,"Los Angeles County (Northwest)--LA City (Northwest/Encino & Tarzana)",23039,23203,163,19039,-4000,-4164,31401,17343,59935
+603725,"Los Angeles County--LA City (Northwest/Canoga Park, Winnetka & Woodland Hills)",23980,24067,87,19726,-4254,-4341,33231,18434,66988
+603728,"Los Angeles County (Southwest)--Santa Monica City",20490,21508,1017,18121,-2369,-3386,32390,19635,39804
+603730,"Los Angeles County (West Central)--LA City (Central/Hancock Park & Mid-Wilshire)",21545,22174,630,18418,-3127,-3757,31962,18970,63132
+603731,"Los Angeles County (Central)--West Hollywood & Beverly Hills Cities",18390,19271,881,16266,-2124,-3005,27222,15463,40340
+603732,"Los Angeles County (Central)--LA City (East Central & Hollywood)",18478,18519,40,15051,-3427,-3468,25215,14466,69714
+603733,"Los Angeles County (Central)--LA City (Central/Koreatown)",18516,18234,-282,14547,-3969,-3687,25863,15873,42786
+603734,"Los Angeles County--LA City (East Central/Silver Lake, Echo Park & Westlake)",20386,20395,9,16534,-3852,-3861,28659,17095,71314
+603735,"Los Angeles County--LA City (Mount Washington, Highland Park & Glassell Park)",24619,24616,-4,20037,-4582,-4579,34712,20242,67401
+603736,"Los Angeles County (Central)--Alhambra & South Pasadena Cities",24037,24612,575,20414,-3623,-4198,35610,20932,40154
+603737,"Los Angeles County (Central)--Monterey Park & Rosemead Cities",23072,22859,-212,18410,-4661,-4449,32082,19019,40164
+603738,"Los Angeles County (Central)--El Monte & South El Monte Cities",21357,20442,-914,15955,-5401,-4487,27380,16019,36970
+603739,"Los Angeles County (Southeast)--Whittier City & Hacienda Heights",23966,23822,-144,19407,-4559,-4415,34011,19488,54734
+603740,"Los Angeles County (Central)--Pico Rivera & Montebello Cities",22820,22265,-555,17736,-5084,-4529,30972,18219,39608
+603741,"Los Angeles County (Central)--Bell Gardens, Bell, Maywood, Cudahy & Commerce Cities",21444,20077,-1367,15312,-6132,-4765,26335,15738,39295
+603742,"Los Angeles County (Central)--Huntington Park City, Florence-Graham & Walnut Park",20129,18713,-1416,14169,-5960,-4544,24756,14953,36361
+603743,"Los Angeles County (Central)--East Los Angeles",23654,22532,-1122,17466,-6188,-5066,30511,18480,37648
+603744,"Los Angeles County (Central)--LA City (East Central/Central City & Boyle Heights)",19907,19813,-94,15956,-3951,-3857,28683,17812,66636
+603745,"Los Angeles County (Central)--LA City (Southeast/East Vernon)",20640,19116,-1524,14365,-6275,-4751,25237,15443,34687
+603746,"Los Angeles County--LA City (Central/Univ. of Southern California & Exposition Park)",18688,17891,-797,13878,-4810,-4013,24625,15195,32554
+603747,"Los Angeles County (Central)--LA City (Central/West Adams & Baldwin Hills)",18965,18887,-78,15270,-3695,-3617,27120,16296,55070
+603748,"Los Angeles County--LA (Southwest/Marina del Rey & Westchester) & Culver City Cities",24383,25519,1136,21479,-2904,-4040,38435,23200,74036
+603750,"Los Angeles County (South Central)--LA City (South Central/Westmont)",19354,18354,-999,14169,-5185,-4186,25161,15211,55439
+603751,"Los Angeles County (South Central)--LA City (South Central/Watts)",18294,16987,-1306,12841,-5453,-4147,22448,13511,40626
+603752,"Los Angeles County (South)--South Gate & Lynwood Cities",26466,25090,-1376,19405,-7061,-5684,33726,20072,56175
+603753,"Los Angeles County (South)--Downey City",26605,26379,-226,21339,-5266,-5040,37059,21747,40111
+603754,"Los Angeles County (Southeast)--La Mirada & Santa Fe Springs Cities",24905,24637,-268,19908,-4997,-4730,34636,20171,43787
+603757,"Los Angeles County (South Central)--Compton City & West Rancho Dominquez",21052,19885,-1167,15317,-5735,-4568,27007,16251,45844
+603758,"Los Angeles County (South Central)--Gardena, Lawndale Cities & West Athens",19853,19511,-342,15571,-4282,-3940,28000,17119,47560
+603759,"Los Angeles County (South Central)--Hawthorne City",23487,23453,-34,18949,-4538,-4504,34573,21449,38094
+603760,"Los Angeles County--Redondo Beach, Manhattan Beach & Hermosa Beach Cities",24113,25589,1477,21739,-2373,-3850,40923,25700,46449
+603761,"Los Angeles County (South Central)--Torrance City",26392,27360,968,22839,-3552,-4520,42241,26192,46699
+603762,"Los Angeles County (South Central)--Carson City",25961,26052,91,21217,-4744,-4835,38502,23563,37825
+603763,"Los Angeles County (South Central)--Long Beach City (North)",22860,22644,-216,18267,-4593,-4377,32357,19194,46509
+603764,"Los Angeles County (South)--Lakewood, Cerritos, Artesia & Hawaiian Gardens Cities",26266,26331,65,21470,-4796,-4861,37483,21959,55519
+603766,"Los Angeles County (South)--Long Beach City (Southwest & Port)",18166,17811,-355,14211,-3955,-3600,25484,15319,31862
+603767,"Los Angeles County (South)--LA City (South/San Pedro)",21925,21739,-186,17513,-4413,-4226,31766,19390,60291
+603768,"Los Angeles County (Southwest)--Palos Verdes Peninsula",20681,21258,577,17800,-2880,-3457,32783,19005,34311
+603770,"Los Angeles County (West Central)--LA City (West Los Angeles, Century City & Palms)",21784,22604,820,18879,-2904,-3724,32594,19296,38593
+603771,"Los Angeles County (Northwest)--Santa Clarita City (South)",25047,24338,-708,19593,-5454,-4745,32959,17432,42490
+603772,"Los Angeles County (North/Unincorporated)--Castaic",17758,16644,-1114,13257,-4501,-3387,23178,10979,29763
+603773,"Los Angeles County (Northwest)--Santa Clarita City (North)",23552,23237,-315,19051,-4502,-4187,32509,16869,40883
+603774,"Los Angeles County--Calabasas, Agoura Hills, Malibu & Westlake Village Cities",19665,20073,408,16830,-2835,-3243,29815,16113,44572
+603775,"Los Angeles County (Central)--LA City (Central)",20619,21076,458,17610,-3009,-3466,27541,13809,43598
+603776,"Los Angeles County (West Central)--LA City (Central/Westwood & West Los Angeles)",22139,22764,626,18849,-3290,-3915,32665,19517,38417
+603778,"Los Angeles County (Central)--Inglewood City",21401,20953,-448,16649,-4752,-4304,29995,18357,38211
+603779,"Los Angeles County (Southeast)--Long Beach City (East)",22725,23450,725,19623,-3102,-3827,34471,19993,41362
+603780,"Los Angeles County (Southeast)--Long Beach (Central) & Signal Hill Cities",19313,19041,-272,15320,-3993,-3721,27273,16105,40363
+603781,"Los Angeles County (Southeast)--Norwalk City",27270,26616,-654,21192,-6078,-5424,36176,21004,34381
+603782,"Los Angeles County (Southeast)--Bellflower & Paramount Cities",24296,23758,-538,18953,-5343,-4805,32881,19338,43677
+605906,"Orange County (North)--Yorba Linda, La Habra & Brea Cities",23083,23211,128,19089,-3994,-4122,33763,19173,61884
+605907,"Orange County (North Central)--Fullerton & Placentia Cities",24241,24419,177,20008,-4233,-4410,34867,20182,65132
+605908,"Orange County (Northwest)--Buena Park, Cypress & Seal Beach Cities",23680,24053,373,19852,-3828,-4201,34811,20223,59652
+605909,"Orange County (North Central)--Anaheim City (West)",21911,21330,-580,16912,-4999,-4418,28681,16399,46060
+605912,"Orange County (Northwest)--Westminster, Stanton & Garden Grove (West) Cities",22886,22474,-412,17946,-4940,-4528,30635,17625,56517
+605913,"Orange County (Northwest)--Garden Grove City (East)",26618,26064,-554,20722,-5896,-5342,35037,20168,55536
+605914,"Orange County (Northwest)--Huntington Beach City",21510,22017,506,18293,-3217,-3724,32999,19249,65188
+605916,"Orange County (Central)--Santa Ana City (West)",31083,30031,-1052,23479,-7604,-6552,41457,25044,53693
+605917,"Orange County (Central)--Santa Ana City (East)",27866,27312,-554,21591,-6275,-5721,39067,24335,53749
+605918,"Orange County (Central)--Costa Mesa & Fountain Valley Cities",26082,26790,708,22151,-3931,-4639,40446,24833,67850
+605919,"Orange County (North Central)--Anaheim City (East)",25712,25647,-65,20754,-4958,-4893,36395,21584,67145
+605920,"Orange County (Central)--Orange & Villa Park Cities",25719,26269,550,21655,-4064,-4614,39114,23786,47461
+605921,"Orange County (Northeast)--Lake Forest, Irvine (North) Cities & Silverado",31488,32322,835,26833,-4655,-5490,51035,30930,58298
+605922,"Orange County (Central)--Irvine (Northwest) & Tustin Cities",26973,28096,1124,23423,-3550,-4673,43539,27390,46595
+605923,"Orange County (Central)--Irvine City (Central)",31586,33574,1988,28428,-3158,-5147,53350,33721,52658
+605924,"Orange County (Central)--Irvine City (South)",31054,32268,1215,26848,-4206,-5420,50756,32075,44330
+605925,"Orange County (West Central)--Newport Beach, Aliso Viejo & Laguna Woods Cities",17945,18899,954,15936,-2009,-2962,29789,18438,53726
+605926,"Orange County (South Central)--Mission Viejo and Laguna Hills Cities",25728,26811,1083,22419,-3309,-4392,41351,25271,38706
+605927,"Orange County (Southeast)--Rancho Santa Margarita City & Ladera Ranch",28463,29882,1419,25231,-3232,-4650,47284,28470,35739
+605928,"Orange County (Southwest)--San Clemente, Laguna Niguel & San Juan Capistrano Cities",19957,20526,569,17056,-2901,-3470,31223,18368,59356

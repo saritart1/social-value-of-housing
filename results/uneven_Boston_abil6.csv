@@ -1,0 +1,4 @@
+arm,budget_pct,dW_musd,naive_musd,dr_med_pct,converged
+uniform,10,5205,5461,-9.09,1
+top_wedge,10,5770,6401,-5,1
+bottom_wedge,10,3658,4467,-4.92,1

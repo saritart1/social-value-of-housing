@@ -1,0 +1,18 @@
+param,value,max_wedge_usd,max_wedge_where,eta_med,dereg_net_per_hh,converged
+baseline,NaN,1957,Orange County (Central)--Irvine City (Central),-0.421,1796,1
+alpha,0.25,1801,Orange County (Central)--Irvine City (Central),-0.465,697,1
+alpha,0.35,2087,Orange County (Central)--Irvine City (Central),-0.385,3601,1
+theta,2,1461,Orange County (Central)--Irvine City (Central),-0.563,1772,1
+theta,5,2682,Orange County (Central)--Irvine City (Central),-0.217,1837,1
+lambda_scale,0.67,1896,Orange County (Central)--Irvine City (Central),-0.421,1796,1
+lambda_scale,1.33,2025,Orange County (Central)--Irvine City (Central),-0.42,1796,1
+omega,0.08,1255,Orange County (Central)--Irvine City (Central),-0.463,1801,1
+omega,0.16,2774,Orange County (Central)--Irvine City (Central),-0.372,1791,1
+dc,0.02,2001,Orange County (Central)--Irvine City (Central),-0.421,2070,1
+dc,0.1,1870,Orange County (Central)--Irvine City (Central),-0.421,1306,1
+kappa,0.007,2013,Orange County (Central)--Irvine City (Central),-0.421,2251,1
+kappa,0.014,1889,Orange County (Central)--Irvine City (Central),-0.421,1324,1
+mc_scale,0.8,1957,Orange County (Central)--Irvine City (Central),-0.421,2811,1
+mc_scale,1.4,1957,Orange County (Central)--Irvine City (Central),-0.421,687,1
+dereg_epsS,0.5,1957,Orange County (Central)--Irvine City (Central),-0.421,1532,1
+dereg_epsS,2,1957,Orange County (Central)--Irvine City (Central),-0.421,3315,1

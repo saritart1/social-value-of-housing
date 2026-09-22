@@ -1,0 +1,112 @@
+{
+ "metro": "Washington DC",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  28432.0,
+  52715.0,
+  74809.0,
+  96757.0,
+  120468.0,
+  147788.0,
+  183378.0,
+  242595.0,
+  321297.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 2500007,
+ "decile_cutoffs_person_earnings": [
+  10632.0,
+  25015.0,
+  36481.0,
+  51073.0,
+  63581.0,
+  83385.0,
+  104231.0,
+  130289.0,
+  171981.0
+ ],
+ "pums": {
+  "workers_metro_res": 34450,
+  "powpuma_match_rate": 0.893,
+  "cells_workplace": 440,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -21.89,
+  14.98
+ ],
+ "fhfa": {
+  "tracts_matched": 1122,
+  "mc_yr_range": [
+   7177,
+   28842
+  ],
+  "struct_val_median": 243367,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "predicted_ability_deciles",
+  "K": 6,
+  "with_occupation": false,
+  "wage_equation_r2_with_puma_fe": 0.3788,
+  "index": "characteristic part of a PUMA-fixed-effects log-earnings regression",
+  "covariates": [
+   "education(6)",
+   "age",
+   "age^2",
+   "sex",
+   "field of degree",
+   "nativity",
+   "citizenship",
+   "arrival decade",
+   "English",
+   "race",
+   "hispanic origin"
+  ],
+  "with_race": true,
+  "group_share_of_workers": [
+   0.1666,
+   0.1666,
+   0.1668,
+   0.1666,
+   0.1667,
+   0.1667
+  ],
+  "mean_earnings": [
+   26945.077666681762,
+   49383.65648066244,
+   68470.15162664224,
+   88106.10539168402,
+   119740.1611344456,
+   173272.6094469877
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.221,
+   0.392,
+   0.524,
+   0.626,
+   0.762,
+   0.902
+  ]
+ }
+}

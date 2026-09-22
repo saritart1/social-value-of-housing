@@ -1,0 +1,18 @@
+param,value,max_wedge_usd,max_wedge_where,eta_med,dereg_net_per_hh,converged
+baseline,NaN,2931,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,2339,1
+alpha,0.25,2696,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.469,883,1
+alpha,0.35,3127,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.389,4848,1
+theta,2,2193,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.566,2266,1
+theta,5,4004,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.222,2463,1
+lambda_scale,0.67,2842,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,2331,1
+lambda_scale,1.33,3031,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.424,2347,1
+omega,0.08,1890,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.466,2309,1
+omega,0.16,4143,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.376,2376,1
+dc,0.02,2948,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.424,2768,1
+dc,0.1,2870,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,1648,1
+kappa,0.007,2966,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.424,3087,1
+kappa,0.014,2864,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,1640,1
+mc_scale,0.8,2931,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,3827,1
+mc_scale,1.4,2931,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,826,1
+dereg_epsS,0.5,2931,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,1854,1
+dereg_epsS,2,2931,Santa Clara County (Northwest)--Mountain View & Los Altos Cities,-0.425,4111,1

@@ -1,0 +1,110 @@
+{
+ "metro": "Boston",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  19952.0,
+  40936.0,
+  61859.0,
+  84033.0,
+  107719.0,
+  135125.0,
+  170607.0,
+  223751.0,
+  311876.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 2226658,
+ "decile_cutoffs_person_earnings": [
+  10423.0,
+  22827.0,
+  35439.0,
+  46904.0,
+  60454.0,
+  75046.0,
+  93808.0,
+  118823.0,
+  171981.0
+ ],
+ "pums": {
+  "workers_metro_res": 27716,
+  "powpuma_match_rate": 0.8,
+  "cells_workplace": 350,
+  "cells_gap_filled": 0
+ },
+ "mu_pct_range": [
+  -17.96,
+  13.4
+ ],
+ "fhfa": {
+  "tracts_matched": 758,
+  "mc_yr_range": [
+   6711,
+   23203
+  ],
+  "struct_val_median": 203116,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "predicted_ability_deciles",
+  "K": 6,
+  "with_occupation": false,
+  "wage_equation_r2_with_puma_fe": 0.3865,
+  "index": "characteristic part of a PUMA-fixed-effects log-earnings regression",
+  "covariates": [
+   "education(6)",
+   "age",
+   "age^2",
+   "sex",
+   "field of degree",
+   "nativity",
+   "citizenship",
+   "arrival decade",
+   "English"
+  ],
+  "with_race": false,
+  "group_share_of_workers": [
+   0.1667,
+   0.1665,
+   0.1668,
+   0.1667,
+   0.1667,
+   0.1667
+  ],
+  "mean_earnings": [
+   28666.863501042084,
+   52020.42590793241,
+   67316.59835782317,
+   88222.4298428265,
+   117282.14938012544,
+   166286.6832750328
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.243,
+   0.425,
+   0.545,
+   0.672,
+   0.798,
+   0.893
+  ]
+ }
+}

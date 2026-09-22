@@ -1,0 +1,33 @@
+gid,state,puma,name,L_km2,H_units,households,rent_data_yr,mu_pct,mc_yr,lat,lon
+5323301,53,23301,"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",75.08,48822,46971,15401,5.65,12000,47.7564,-122.2788
+5323302,53,23302,"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",2477.53,49788,43828,17622,7.69,12000,47.5779,-121.6434
+5323303,53,23303,"King County (Northwest)--Redmond, Kirkland Cities, Ingelwood & Finn Hill",93.45,60521,57181,18839,7.74,12000,47.6827,-122.1668
+5323304,53,23304,King County (Northwest Central)--Greater Bellevue City,91.4,60551,55986,19829,9.38,12000,47.6041,-122.1676
+5323305,53,23305,"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",203.2,54745,52595,21552,12.11,12000,47.5549,-122.0697
+5323306,53,23306,"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",1705.5,45866,44035,15926,1.98,12000,47.2987,-121.7866
+5323307,53,23307,King County (Southwest)--Auburn City & Lakeland,177.76,42256,39739,13634,-0.72,12000,47.2846,-122.1691
+5323308,53,23308,"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",160.96,51917,48046,13051,0.11,12000,47.4669,-122.4363
+5323309,53,23309,King County (Southwest Central)--Kent City,97.03,45957,43285,13515,0.15,12000,47.388,-122.2127
+5323310,53,23310,"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",75.98,54709,51517,15186,-0.36,12000,47.4789,-122.1799
+5323311,53,23311,"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",104.12,50547,47468,12334,-2.44,12000,47.4502,-122.3093
+5323312,53,23312,Seatle City (West Seattle-Industrial),56.15,45651,43461,14295,-3.24,12000,47.5528,-122.3624
+5323313,53,23313,Seattle City (Southeast),33.44,36682,34511,12651,-4.12,12000,47.5523,-122.2768
+5323314,53,23314,Seattle City (Central),18.85,51410,48592,15030,-9.18,12000,47.6244,-122.296
+5323315,53,23315,Seattle City (Lake Union-Downtown),12.97,50268,45946,17154,-5.05,12000,47.6285,-122.3482
+5323316,53,23316,Seattle City (Northwest),32.17,46937,44674,16548,-1.68,12000,47.6666,-122.3876
+5323317,53,23317,Seattle City (Northeast),27.25,42166,40015,16137,2.98,12000,47.6694,-122.292
+5323318,53,23318,Seattle City (North),36.89,49753,47016,14144,-0.67,12000,47.7104,-122.322
+5325301,53,25301,Tacoma City (North),75.87,49728,45963,12090,-4.01,12000,47.2709,-122.4558
+5325302,53,25302,Tacoma City (South),51.16,36866,33355,12399,-9.57,12000,47.2073,-122.4491
+5325303,53,25303,"Pierce County (North Central)--Bonney Lake, Edgewood, Fife & Sumner Cities",183.24,36093,34280,14276,-1.87,12000,47.2151,-122.241
+5325304,53,25304,"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",3081.75,41683,38313,14177,-4.88,12000,46.958,-121.9391
+5325305,53,25305,Pierce County (East Central)--Puyallup City & South Hill,120.6,46911,43901,14319,-0.72,12000,47.1412,-122.3014
+5325306,53,25306,Pierce County (South Central)--Parkland & Spanaway,97.44,37205,34388,12021,-9.41,12000,47.123,-122.4091
+5325307,53,25307,Pierce County (West Central)--Lakewood & University Place Cities,71.74,45584,41975,11631,-5.65,12000,47.1857,-122.5421
+5325308,53,25308,Pierce County (Northwest)--Peninsula Region & JBLM,638.23,39431,34891,16578,-2.26,12000,47.1622,-122.6317
+5326101,53,26101,Snohomish County (North)--Marysville & Arlington Cities,2587.61,55351,51143,14388,-1.32,12000,48.18,-121.7656
+5326102,53,26102,Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities,2426.93,49388,45395,14926,-1.22,12000,47.9115,-121.6064
+5326103,53,26103,"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",167.17,45496,43608,18637,7.29,12000,47.8166,-122.1351
+5326104,53,26104,"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",68.52,48860,46532,14057,3.39,12000,47.8084,-122.3246
+5326105,53,26105,Snohomish County (West Central)--Mukilteo & Martha Lake,65.49,37319,35373,16627,4.38,12000,47.8799,-122.2816
+5326106,53,26106,Snohomish County (Central)--Everett City & Eastmont,88.34,60761,56572,13006,-3.57,12000,47.9391,-122.2209

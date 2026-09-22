@@ -1,0 +1,122 @@
+{
+ "metro": "Bay Area",
+ "params": {
+  "USER_COST": 0.05,
+  "MC_YR_fallback": 12000,
+  "RANK2INC": 3.0,
+  "CAUSAL_SHARE": 0.55,
+  "OWN_BY_DEC": [
+   0.33,
+   0.39,
+   0.46,
+   0.52,
+   0.58,
+   0.65,
+   0.71,
+   0.77,
+   0.84,
+   0.9
+  ]
+ },
+ "decile_cutoffs_hh_income": [
+  0.0,
+  25571.0,
+  51833.0,
+  78185.0,
+  105357.0,
+  135944.0,
+  173077.0,
+  219244.0,
+  279496.0,
+  339748.0,
+  400000.0
+ ],
+ "lodes_zero_flow_pumas": 0,
+ "lodes_jobs_within_metro": 2785225,
+ "decile_cutoffs_person_earnings": [
+  12508.0,
+  26058.0,
+  38566.0,
+  52116.0,
+  72962.0,
+  93808.0,
+  125077.0,
+  161558.0,
+  234520.0
+ ],
+ "pums": {
+  "workers_metro_res": 35032,
+  "powpuma_match_rate": 0.903,
+  "cells_workplace": 540,
+  "cells_gap_filled": 0
+ },
+ "traveltime_imputed_cells": 105,
+ "mu_pct_range": [
+  -21.77,
+  13.85
+ ],
+ "fhfa": {
+  "tracts_matched": 941,
+  "mc_yr_range": [
+   11146,
+   82622
+  ],
+  "struct_val_median": 348884,
+  "mc_patched": "2026-07-20",
+  "vintage": "2020"
+ },
+ "type_dimension": {
+  "kind": "predicted_ability_deciles",
+  "K": 10,
+  "with_occupation": false,
+  "wage_equation_r2_with_puma_fe": 0.3766,
+  "index": "characteristic part of a PUMA-fixed-effects log-earnings regression",
+  "covariates": [
+   "education(6)",
+   "age",
+   "age^2",
+   "sex",
+   "field of degree",
+   "nativity",
+   "citizenship",
+   "arrival decade",
+   "English"
+  ],
+  "group_share_of_workers": [
+   0.0998,
+   0.1001,
+   0.0998,
+   0.0998,
+   0.1004,
+   0.1,
+   0.0999,
+   0.1,
+   0.1001,
+   0.1
+  ],
+  "mean_earnings": [
+   24042.91041596812,
+   42999.97085758305,
+   53863.518099964174,
+   66054.09598791797,
+   79708.66018875239,
+   106712.13027423536,
+   132141.78796989,
+   155602.01509539306,
+   189494.25760833587,
+   255193.15946086074
+  ],
+  "earnings_percentile_of_group_mean": [
+   0.185,
+   0.338,
+   0.413,
+   0.475,
+   0.543,
+   0.665,
+   0.73,
+   0.772,
+   0.845,
+   0.911
+  ]
+ }
+}

@@ -1,0 +1,33 @@
+gid,name,eta_closed,eta_open,households
+5323301,"King County (Northwest)--Shoreline, Kenmore & Bothell (South) Cities",-0.436,-0.422,50956
+5323302,"King County (Northeast)--Snoqualmie City, Cottage Lake, Union Hill & Novelty Hill",-0.44,-0.429,44131
+5323303,"King County (Northwest)--Redmond, Kirkland Cities, Ingelwood & Finn Hill",-0.443,-0.423,64032
+5323304,"King County (Northwest Central)--Greater Bellevue City",-0.45,-0.427,64480
+5323305,"King County (Central)--Sammamish, Issaquah, Mercer Island & Newcastle Cities",-0.447,-0.427,58765
+5323306,"King County (Southeast)--Maple Valley, Covington & Enumclaw Cities",-0.437,-0.427,46942
+5323307,"King County (Southwest)--Auburn City & Lakeland",-0.432,-0.422,46802
+5323308,"King County (Far Southwest)--Federal Way, Des Moines Cities & Vashon Island",-0.432,-0.423,49276
+5323309,"King County (Southwest Central)--Kent City",-0.433,-0.422,48367
+5323310,"King County (Central)--Renton City, Fairwood, Bryn Mawr & Skyway",-0.434,-0.422,55213
+5323311,"King County (West Central)--Burien, SeaTac, Tukwila Cities & White Center",-0.432,-0.421,51052
+5323312,"Seatle City (West Seattle-Industrial)",-0.433,-0.421,43809
+5323313,"Seattle City (Southeast)",-0.428,-0.419,36966
+5323314,"Seattle City (Central)",-0.434,-0.42,50250
+5323315,"Seattle City (Lake Union-Downtown)",-0.436,-0.42,52549
+5323316,"Seattle City (Northwest)",-0.435,-0.421,48267
+5323317,"Seattle City (Northeast)",-0.433,-0.42,47447
+5323318,"Seattle City (North)",-0.432,-0.42,43802
+5325301,"Tacoma City (North)",-0.43,-0.42,44980
+5325302,"Tacoma City (South)",-0.429,-0.421,37092
+5325303,"Pierce County (North Central)--Bonney Lake, Edgewood, Fife & Sumner Cities",-0.429,-0.421,38112
+5325304,"Pierce County (Southeast)--Graham, Elk Plain & Prairie Ridge",-0.44,-0.433,46860
+5325305,"Pierce County (East Central)--Puyallup City & South Hill",-0.433,-0.423,52563
+5325306,"Pierce County (South Central)--Parkland & Spanaway",-0.431,-0.423,40411
+5325307,"Pierce County (West Central)--Lakewood & University Place Cities",-0.428,-0.42,39115
+5325308,"Pierce County (Northwest)--Peninsula Region & JBLM",-0.432,-0.425,44027
+5326101,"Snohomish County (North)--Marysville & Arlington Cities",-0.433,-0.422,53638
+5326102,"Snohomish County (Central & Southeast)--Lake Stevens & Monroe Cities",-0.439,-0.429,54665
+5326103,"Snohomish County (South Central)--Bothell (North), Mill Creek Cities & Silver Firs",-0.44,-0.424,58525
+5326104,"Snohomish County (Southwest)--Edmonds, Lynnwood & Mountlake Terrace Cities",-0.432,-0.421,48532
+5326105,"Snohomish County (West Central)--Mukilteo & Martha Lake",-0.43,-0.42,42416
+5326106,"Snohomish County (Central)--Everett City & Eastmont",-0.435,-0.422,61655
