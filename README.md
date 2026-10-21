@@ -17,6 +17,10 @@ replication/
   results/             the output CSVs behind every exhibit in the memo
 ```
 
+## Interactive atlas
+
+`docs/index.html` is a self-contained page that maps the wedge, the rent and the social value for all 409 PUMAs, with the definitions behind each number. It is served with GitHub Pages at https://saritart1.github.io/social-value-of-housing/ and it needs no server, so opening the file in a browser also works. The numbers in it are the `results/*_abil6_*.csv` files.
+
 ## Requirements
 
 - MATLAB R2024b (no toolboxes beyond base MATLAB).
